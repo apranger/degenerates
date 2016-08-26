@@ -64,17 +64,17 @@
 #Rosters
 A FLEX position can be filled with a RB, WR or TE.
 
-| Position | # Slots | Max    |
-| -------- | --------|--------|
-| QB       | 1       ||
-| RB       | 2       ||
-| WR       | 2       ||
-| TE       | 1       ||
-| FLEX     | 1       ||
-| K        | 1       ||
-| D/ST     | 0       ||
-| BENCH    | 16      ||
-| IR       | 0       ||
+| Position | # Slots |  Max     |
+| -------- | -------:|---------:|
+| QB       | 1       |     4    |
+| RB       | 2       | no limit |
+| WR       | 2       | no limit |
+| TE       | 1       |        4 |
+| FLEX     | 1       |      n/a |
+| K        | 1       |        3 |
+| D/ST     | 0       |      n/a |
+| BENCH    | 16      |      n/a |
+| IR       | 0       |      n/a |
 
 
 #Schedule
