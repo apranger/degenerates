@@ -135,8 +135,8 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Roster Changes
   - There is no fine for being over the salary cap during the season
   - Roster changes prior to the soft deadline are free
-  - Roster changes after the soft deadline incur a fine 
-    - Fine of 10% of the player's salary after their raise is applied
+  - Roster changes after the soft deadline incur a fine as a cap hit
+    - Fine is 10% of the player's salary after their raise is applied, per day after the soft deadline
     - Fine is rounded up to the nearest dollar, minimum fine is $1
   - Roster changes are not allowed between the hard deadline and the free agent draft
   - Players acquire in the rookie draft cannot be dropped prior to the completion of the free agent draft
@@ -146,8 +146,10 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Rookie Draft
   - Fixed order, non-snake, non-auction
   - Order determined by previous year's results using NFL system
-    - Teams that miss playoffs are seeded based on their regular season record
-    - Teams that make playoffs are seeded based on the final standing (regular season record tiebreaker)
+    - Teams that miss playoffs are seeded 1 to 6 based on their regular season record (worst to first)
+    - Teams lose in round 1 of the playoffs are seeded at 7 and 8 based on their regular season record (worst to first)
+    - The team that loses the Super bowl is seeded at pick 9
+    - The Super Bowl winner is seeded at pick 10
   - Teams may opt to pass on a draft pick
   - Draft continues until all teams have passed
   - Draft will last a minimum of 3 rounds
@@ -173,6 +175,7 @@ A FLEX position can be filled with a RB, WR or TE.
   - RFA designation permits an owner to retain a player at his "market price" plus $1
   - RFA players will be dispositioned in the first two rounds of the Free Agent Auction draft
   - Owners may not exceed the salary cap during the RFA auction
+  - Players acquired from another owner via RFA reset their RFA clock, i.e., they are not eligible for RFA the following year.
 
 ### Free Agent Draft
   - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
@@ -182,7 +185,7 @@ A FLEX position can be filled with a RB, WR or TE.
   - Auction budget is not transferable and may not be used as a consideration in any deal
 
 ### Free Agent Draft - RFA
-  - First two rounds of Free Agent Draft will be scripted / forced, to disposition RFAs
+  - First two rounds of Free Agent Draft will be scripted to disposition RFAs
     - Player's owner will nominate an RFA (or pass) for $1
     - Player's owner may not participate in the bidding process
     - Other owners bid on the player, until a winning bid is reached
@@ -210,6 +213,7 @@ A FLEX position can be filled with a RB, WR or TE.
     - $100 to 1st place, regular season
     - $160 to 1st place, Super Bowl
     - $100 to 2nd place, Super Bowl
+  - The Super Bowl winner receives naming rights for the Toilet Bowl loser for the following season.
 
 # Calendar
 
