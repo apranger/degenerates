@@ -166,11 +166,28 @@ A FLEX position can be filled with a RB, WR or TE.
   - Trades involving picks must be finalized and announced prior to the rookie draft
   - Picks cannot be traded during the draft
 
+### Restricted Free Agency
+  - Starting in 2018, owners may designate 0 to 2 players as Restricted Free Agents (RFA)
+  - Designated RFAs are set at the soft cap deadline
+  - RFAs may not be designated if acquired in the Free Agent Auction 1 year prior
+  - RFA designation permits an owner to retain a player at his "market price" plus $1
+  - RFA players will be dispositioned in the first two rounds of the Free Agent Auction draft
+  - Owners may not exceed the salary cap during the RFA auction
+
 ### Free Agent Draft
+  - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
   - Auction draft encompassing all players not on a team roster
   - Team budget is $300 less their existing player salaries
   - Team must be under the $300 salary cap prior to the free agent draft
   - Auction budget is not transferable and may not be used as a consideration in any deal
+
+### Free Agent Draft - RFA
+  - First two rounds of Free Agent Draft will be scripted / forced, to disposition RFAs
+    - Player's owner will nominate an RFA (or pass) for $1
+    - Player's owner may not participate in the bidding process
+    - Other owners bid on the player, until a winning bid is reached
+    - Winning owner has the option to increase their winning bid
+    - Player's owner has the option to retain the player at winning bid price + $1, or pass
 
 ### Logistics
   - Rookie draft will be completed offline, e.g. via email / group chat
