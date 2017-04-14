@@ -74,32 +74,38 @@ A FLEX position can be filled with a RB, WR or TE.
 | K        | 1       |        3 |
 | D/ST     | 0       |      n/a |
 | BENCH    | 16      |      n/a |
-| IR       | 0       |      n/a |
+| IR       | 2       |      n/a |
 
+### IR Slot
+  - "Standard ESPN rules" apply - Assignment to IR requires O (out) or IR (Injured Reserve) designation
+  - IR Slot must be empty on soft cap day, ergo, it may not be used to retain players year-over-year
 
 # Schedule
   
 ### Regular Season
-  - The regular season lasts 13 weeks, i.e. NFL weeks 1-13
+  - The regular season lasts 14 weeks, i.e. NFL weeks 1-14
   - Scoring is head-to-head
   - Regular season schedule will be randomized by the commissioner at the start of every season
   - Ties are allowed, i.e. there is no weekly tiebreaker
 
-### Playoffs
-  - The playoffs last 3 weeks, i.e. NFL weeks 14-16
-  - 6 teams make the playoffs based on regular season record
-    - First tiebreaker is head-to-head record
-    - Second tiebreaker is total points scored
-    - Third tiebreaker is a coin flip
-  - Seeding of playoff teams is determined by rotisserie record
+### Playoffs / Super Bowl
+  - The playoffs last 2 weeks, i.e. NFL weeks 15-16
+  - 4 teams make the playoffs based on regular season record
     - First tiebreaker is total points scored
-    - Second tiebreaker is regular season record
+    - Second tiebreaker is head-to-head record
     - Third tiebreaker is a coin flip
-  - Seeds #1 and #2 receive a first round bye
-  - Playoffs are not re-adjusted based on seed, e.g. #1 will never play #6 in round 2 
-  - Bracket: (#2 vs (#3 vs #6)) vs (#1 vs (#4 vs #5))
+  - Bracket: (#2 vs #3) vs (#1 vs #4)
   - Ties are broken by coin flip
 
+### Toilet Bowl
+  - The worst 4 teams compete in a toilet bowl bracket
+  - 4 teams make the toliet bracket based on regular season record
+    - First tiebreaker is total points scored
+    - Second tiebreaker is head-to-head record
+    - Third tiebreaker is a coin flip
+  - The toilet bowl last 2 weeks, i.e. NFL weeks 15-16
+  - Loser advances to determine the worst team of the season
+  - Bracket: (#8 vs #9) vs (#7 vs #10)
 
 # Salaries
 
@@ -135,7 +141,6 @@ A FLEX position can be filled with a RB, WR or TE.
   - Roster changes are not allowed between the hard deadline and the free agent draft
   - Players acquire in the rookie draft cannot be dropped prior to the completion of the free agent draft
 
-
 # Draft
 
 ### Rookie Draft
@@ -151,27 +156,24 @@ A FLEX position can be filled with a RB, WR or TE.
 
     | Pick (Overall)     | Round | Salary |
     | ------------------ | -----:| ------:|
-    | 1-2                | 1     | $10    |
-    | 3-4                | 1     | $9     |
-    | 5-6                | 1     | $8     |
-    | 7-8                | 1     | $7     |
-    | 9-10               | 1     | $6     |
-    | 11-15              | 2     | $5     |
-    | 16-20              | 2     | $4     |
+    | 1-5                | 1     | $6     |
+    | 6-10               | 1     | $5     |
+    | 11-20              | 2     | $4     |
     | 21+                | 3+    | $3     |
 
 ### Rookie Draft Pick Trades
   - Rookie draft picks may be traded for players or other draft picks
-  - Trades must be finalized and announced prior to the rookie draft
+  - Trades involving picks must be finalized and announced prior to the rookie draft
   - Picks cannot be traded during the draft
 
 ### Free Agent Draft
   - Auction draft encompassing all players not on a team roster
   - Team budget is $300 less their existing player salaries
   - Team must be under the $300 salary cap prior to the free agent draft
+  - Auction budget is not transferable and may not be used as a consideration in any deal
 
 ### Logistics
-  - Rookie draft will be completed offline, e.g. via email
+  - Rookie draft will be completed offline, e.g. via email / group chat
   - Free agent draft will be in-person or online, e.g. via ESPN online auction draft
 
 
