@@ -123,9 +123,10 @@ A FLEX position can be filled with a RB, WR or TE.
   - Teams must have enough salary cap to fill their roster during the free agent draft
 
 ### Player Salaries
-  - Players acquired via the auction draft have a salary equal to their auction draft cost
-  - Players acquired via the rookie draft have a salary assigned based on their draft position (see [Draft](https://github.com/zombull/degenerates#draft))
-  - Players acquired via free agency have a salary of $0
+  - Players drafted in the auction draft have a salary equal to their auction draft cost
+  - Players drafted in the rookie draft have a salary assigned based on their draft position (see [Draft](https://github.com/zombull/degenerates#draft))
+  - Undrafted players have a salary of $0
+  - The above rules apply regardless of how a player is acquired, e.g. draft, trade or free agency
 
 ### Player Raises
   - Players kept by a team receive a salary increase of 25% of their ESPN Average Auction Value
@@ -171,11 +172,10 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Restricted Free Agency
   - Starting in 2018, owners may designate 0 to 2 players as Restricted Free Agents (RFA)
   - Designated RFAs are set at the soft cap deadline
-  - RFAs may not be designated if acquired in the Free Agent Auction 1 year prior
+  - Drafted players are not eligible for RFA the following year
   - RFA designation permits an owner to retain a player at his "market price" plus $1
   - RFA players will be dispositioned in the first two rounds of the Free Agent Auction draft
   - Owners may not exceed the salary cap during the RFA auction
-  - Players acquired from another owner via RFA reset their RFA clock, i.e., they are not eligible for RFA the following year.
 
 ### Free Agent Draft
   - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
