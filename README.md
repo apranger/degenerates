@@ -176,6 +176,7 @@ A FLEX position can be filled with a RB, WR or TE.
 
 
 #Calendar
+
 | Month  | Week / Day      | Event |
 | ------ | ----------------| ----- |
 | August | Week 1          | Rules frozen for next season |
