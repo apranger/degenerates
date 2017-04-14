@@ -1,4 +1,4 @@
-#Portland Degenerates Dynasty League Constitution
+# Portland Degenerates Dynasty League Constitution
   - [Scoring](https://github.com/zombull/degenerates#scoring)
     - [Passing](https://github.com/zombull/degenerates#passing)
     - [Rushing](https://github.com/zombull/degenerates#rushing)
@@ -25,31 +25,31 @@
     - [Rules](https://github.com/zombull/degenerates#rules)
     - [Fines](https://github.com/zombull/degenerates#fines)
 
-#Scoring
+# Scoring
   - Decimal scoring will be used.
   - In the event of a late correction, the commissioner will apply manual adjustments, per any official NFL announcements.
 
-###Passing
+### Passing
   - 0.04 points per passing yard (1 point per 25 passing yards)
   - 4 points per passing TD
   - 1 point per passing 2PC
   - -2 points per interception
   
-###Rushing
+### Rushing
   - 0.1 points per rushing yard (1 point per 10 rushing yards)
   - 6 points per rushing TD
   - 2 point per rushing 2PC
 
-###Receiving
+### Receiving
   - 0.1 points per receiving yard (1 point per 10 receiving yards)
   - 6 points per receiving TD
   - 2 point per receiving 2PC
 
-###Miscellaneous
+### Miscellaneous
   - 6 points per Fumble Recovered for TD
   - -2 points per Fumble Lost
 
-###Kicking
+### Kicking
   - 1 point per PAT made
   - 3 points per 0-39 yard FG made
   - 4 points per 40-49 yard FG made
@@ -57,11 +57,11 @@
   - -1 point per PAT missed 
   - -1 point per 0-39 yard FG missed
 
-###Defense
+### Defense
   - None
 
 
-#Rosters
+# Rosters
 A FLEX position can be filled with a RB, WR or TE.
 
 | Position | # Slots |  Max     |
@@ -77,15 +77,15 @@ A FLEX position can be filled with a RB, WR or TE.
 | IR       | 0       |      n/a |
 
 
-#Schedule
+# Schedule
   
-###Regular Season
+### Regular Season
   - The regular season lasts 13 weeks, i.e. NFL weeks 1-13
   - Scoring is head-to-head
   - Regular season schedule will be randomized by the commissioner at the start of every season
   - Ties are allowed, i.e. there is no weekly tiebreaker
 
-###Playoffs
+### Playoffs
   - The playoffs last 3 weeks, i.e. NFL weeks 14-16
   - 6 teams make the playoffs based on regular season record
     - First tiebreaker is head-to-head record
@@ -101,9 +101,9 @@ A FLEX position can be filled with a RB, WR or TE.
   - Ties are broken by coin flip
 
 
-#Salaries
+# Salaries
 
-###Salary Cap
+### Salary Cap
   - Salary cap is $300
     - Unfilled roster spots count for $1 against the salary cap
     - Fines for post-deadline roster changes count against the salary cap
@@ -116,17 +116,17 @@ A FLEX position can be filled with a RB, WR or TE.
     - Teams must be under the salary cap after fines are applied
   - Teams must have enough salary cap to fill their roster during the free agent draft
 
-###Player Salaries
+### Player Salaries
   - Players acquired via the auction draft have a salary equal to their auction draft cost
   - Players acquired via the rookie draft have a salary assigned based on their draft position (see [Draft](https://github.com/zombull/degenerates#draft))
   - Players acquired via free agency have a salary of $0
 
-###Player Raises
+### Player Raises
   - Players kept by a team receive a salary increase of 25% of their ESPN Average Auction Value
   - Salary increases are rounded down to the nearest dollar; this may result in a player receiving no raise
   - Salary increases are calculated at the soft deadline (see [Calendar](https://github.com/zombull/degenerates#calendar))
 
-###Roster Changes
+### Roster Changes
   - There is no fine for being over the salary cap during the season
   - Roster changes prior to the soft deadline are free
   - Roster changes after the soft deadline incur a fine 
@@ -136,9 +136,9 @@ A FLEX position can be filled with a RB, WR or TE.
   - Players acquire in the rookie draft cannot be dropped prior to the completion of the free agent draft
 
 
-#Draft
+# Draft
 
-###Rookie Draft
+### Rookie Draft
   - Fixed order, non-snake, non-auction
   - Order determined by previous year's results using NFL system
     - Teams that miss playoffs are seeded based on their regular season record
@@ -160,22 +160,22 @@ A FLEX position can be filled with a RB, WR or TE.
     | 16-20              | 2     | $4     |
     | 21+                | 3+    | $3     |
 
-###Rookie Draft Pick Trades
+### Rookie Draft Pick Trades
   - Rookie draft picks may be traded for players or other draft picks
   - Trades must be finalized and announced prior to the rookie draft
   - Picks cannot be traded during the draft
 
-###Free Agent Draft
+### Free Agent Draft
   - Auction draft encompassing all players not on a team roster
   - Team budget is $300 less their existing player salaries
   - Team must be under the $300 salary cap prior to the free agent draft
 
-###Logistics
+### Logistics
   - Rookie draft will be completed offline, e.g. via email
   - Free agent draft will be in-person or online, e.g. via ESPN online auction draft
 
 
-#Calendar
+# Calendar
 
 | Month  | Week / Day      | Event |
 | ------ | ----------------| ----- |
@@ -185,17 +185,17 @@ A FLEX position can be filled with a RB, WR or TE.
 | August | Week 3, Monday\*| One week til the free agent draft, hard deadline to get under the salary cap |
 | August | Week 4\*        | Free agent draft |
 
-*These dates are estimates as the are relative to the day of the free agent draft.
+\*These dates are estimates as the are relative to the day of the free agent draft.
 
 
-#Tanking
+# Tanking
 
-###Rules
+### Rules
   - Trading established players for unproven youngsters and/or draft picks IS allowed
   - Dropping uninjured, above-replacement players IS NOT allowed
   - Benching players to lose games IS NOT allowed
 
-###Fines
+### Fines
   - Commissioner's discretion as to what behavior is punishable
   - First Offense: public written warning
   - Second Offense: loss of first round pick in the next rookie draft
