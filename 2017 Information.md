@@ -1,6 +1,6 @@
 # 2017 Degenerates Dynasty League Information 
 
-### Key Dates
+## Key Dates
 
 | Date         | Description |
 |--------------|-------------|
@@ -10,6 +10,8 @@
 | August 15-21 | Players can be dropped w/ 10% per day penalty |
 | August 21    | "Hard" deadline to hit $300 cap |
 | August 26    | Degenerates Free Agent Auction |
+
+## Draft Information
 
 ### 2016 Trades for Draft Picks
   - Adam and Sean exchange 1st round picks
@@ -55,4 +57,23 @@
   8. Bob N.
   9. Sean C.
   10. Adam P.
+
+## Notable Rule Changes
+  - Added 2 [IR slots](https://github.com/zombull/degenerates#ir)
+  - Decreased [rookie salaries](https://github.com/zombull/degenerates#draft)
+  - Changed regular season [playoff format](https://github.com/zombull/degenerates#draft)
+    - Regular season is 14 weeks
+    - Playoffs are 2 weeks
+    - 4 teams make playoffs
+    - Standard 1-and-done format (dropping 2-week Super Bowl)
+  - Changed [prize structure](https://github.com/zombull/degenerates#prizes)
+    - Added 2nd place Super Bowl
+    - Decreased regular season award
+  - Added [Restricted Free Agency](https://github.com/zombull/degenerates#draft)
+    - Remember, this rule is designed to allow owners to keep their best players forever, as long as they are willing to pay the market price
+    - RFA will be part of the 2018 draft
+    - Limit of 2 RFA per owner in 2018
+    - Players *kept in 2017* are eligible for RFA in 2018
+    - Players *drafted in 2017* are not eligble for RFA in 2018
+    - Many owners will "overpay" players in 2017 year to retain RFA rights for 2018 (and beyond)
     
