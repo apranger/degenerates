@@ -172,10 +172,11 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Restricted Free Agency
   - Starting in 2018, owners may designate 0 to 2 players as Restricted Free Agents (RFA)
   - Designated RFAs are set at the soft cap deadline
-  - Drafted players are not eligible for RFA the following year
+  - Drafted players (except retained RFAs) are not eligible for RFA the following year
   - RFA designation permits an owner to retain a player at his "market price" plus $1
   - RFA players will be dispositioned in the first two rounds of the Free Agent Auction draft
   - Owners may not exceed the salary cap during the RFA auction
+  - There is no limit to the number of years a player may be designated/retained as a RFA
 
 ### Free Agent Draft
   - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
@@ -186,11 +187,13 @@ A FLEX position can be filled with a RB, WR or TE.
 
 ### Free Agent Draft - RFA
   - First two rounds of Free Agent Draft will be scripted to disposition RFAs
-    - Player's owner will nominate an RFA (or pass) for $1
-    - Player's owner may not participate in the bidding process
+    - Owners may nominate one of their RFA designated players for $1
     - Other owners bid on the player, until a winning bid is reached
-    - Winning owner has the option to increase their winning bid
+    - Winning bidder has the option to increase their winning bid to any higher amount
+    - Player's owner may not participate in the bidding process
     - Player's owner has the option to retain the player at winning bid price + $1, or pass
+    - Owners may opt to pass during nomination even if they have players designated for RFA
+    - Designated RFAs that were not nominated are placed in the FA draft pool
 
 ### Logistics
   - Rookie draft will be completed offline, e.g. via email / group chat
