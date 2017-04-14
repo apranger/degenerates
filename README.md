@@ -177,12 +177,12 @@ A FLEX position can be filled with a RB, WR or TE.
 
 #Calendar
 | Month  | Week / Day      | Event |
-| ------ | --------------- | ----- |
+| ------ | ----------------| ----- |
 | August | Week 1          | Rules frozen for next season |
 | August | Weeks 1-2       | Rookie Draft |
 | August | Week 2, Monday  | Soft deadline to get under salary cap, player raises applied |
-| August | Week 3, Monday* | One week til the free agent draft, hard deadline to get under the salary cap |
-| August | Week 4*         | Free agent draft |
+| August | Week 3, Monday\*| One week til the free agent draft, hard deadline to get under the salary cap |
+| August | Week 4\*        | Free agent draft |
 
 *These dates are estimates as the are relative to the day of the free agent draft.
 
