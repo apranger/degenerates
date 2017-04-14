@@ -76,7 +76,7 @@ A FLEX position can be filled with a RB, WR or TE.
 | BENCH    | 16      |      n/a |
 | IR       | 2       |      n/a |
 
-### IR Slot
+### IR Slots
   - "Standard ESPN rules" apply - Assignment to IR requires O (out) or IR (Injured Reserve) designation
   - IR Slot must be empty on soft cap day, ergo, it may not be used to retain players year-over-year
 
@@ -88,7 +88,7 @@ A FLEX position can be filled with a RB, WR or TE.
   - Regular season schedule will be randomized by the commissioner at the start of every season
   - Ties are allowed, i.e. there is no weekly tiebreaker
 
-### Playoffs / Super Bowl
+### Playoffs
   - The playoffs last 2 weeks, i.e. NFL weeks 15-16
   - 4 teams make the playoffs based on regular season record
     - First tiebreaker is total points scored
@@ -146,8 +146,8 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Rookie Draft
   - Fixed order, non-snake, non-auction
   - Order determined by previous year's results using NFL system
-    - Teams that miss playoffs are seeded 1 to 6 based on their regular season record (worst to first)
-    - Teams lose in round 1 of the playoffs are seeded at 7 and 8 based on their regular season record (worst to first)
+    - Teams that miss playoffs are seeded 1 to 6 based on the reverse of their regular season records (worst to first)
+    - Teams lose in round 1 of the playoffs are seeded at 7 and 8 based on the reverse of their regular season record (worst to first)
     - The team that loses the Super bowl is seeded at pick 9
     - The Super Bowl winner is seeded at pick 10
   - Teams may opt to pass on a draft pick
@@ -222,6 +222,7 @@ A FLEX position can be filled with a RB, WR or TE.
 | August | Week 1          | Rules frozen for next season |
 | August | Weeks 1-2       | Rookie Draft |
 | August | Week 2, Monday  | Soft deadline to get under salary cap, player raises applied |
+| August | Week 2-3        | Players dropped after soft deadline, before hard deadline get a 10% per day penalty |
 | August | Week 3, Monday\*| One week til the free agent draft, hard deadline to get under the salary cap |
 | August | Week 4\*        | Free agent draft |
 
