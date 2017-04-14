@@ -13,7 +13,7 @@
 
 ### 2016 Trades for Draft Picks
   - Adam and Sean exchange 1st round picks
-  - Adam trades 1st round pick to Jeremy
+  - Adam trades Sean's 1st round pick to Jeremy
 
 ### Offseason Trades
   - None yet reported
