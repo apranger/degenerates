@@ -1,29 +1,29 @@
 # Portland Degenerates Dynasty League Constitution
-  - [Scoring](https://github.com/zombull/degenerates#scoring)
-    - [Passing](https://github.com/zombull/degenerates#passing)
-    - [Rushing](https://github.com/zombull/degenerates#rushing)
-    - [Receiving](https://github.com/zombull/degenerates#receiving)
-    - [Miscellaneous](https://github.com/zombull/degenerates#miscellaneous)
-    - [Kicking](https://github.com/zombull/degenerates#kicking)
-    - [Defense](https://github.com/zombull/degenerates#defense)
-  - [Rosters](https://github.com/zombull/degenerates#rosters)
-  - [Schedule](https://github.com/zombull/degenerates#schedule)
-    - [Regular Season](https://github.com/zombull/degenerates#regular-season)
-    - [Playoffs](https://github.com/zombull/degenerates#playoffs)
-  - [Salaries](https://github.com/zombull/degenerates#salaries)
-    - [Salary Cap](https://github.com/zombull/degenerates#salary-cap)
-    - [Player Salaries](https://github.com/zombull/degenerates#player-salaries)
-    - [Player Raises](https://github.com/zombull/degenerates#player-raises)
-    - [Roster Changes](https://github.com/zombull/degenerates#roster-changes)
-  - [Draft](https://github.com/zombull/degenerates#draft)
-    - [Rookie Draft](https://github.com/zombull/degenerates#rookie-draft)
-    - [Rookie Draft Pick Trades](https://github.com/zombull/degenerates#rookie-draft-pick-trades)
-    - [Free Agent Draft](https://github.com/zombull/degenerates#free-agent-draft)
-    - [Logistics](https://github.com/zombull/degenerates#logistics)
-  - [Calendar](https://github.com/zombull/degenerates#calendar)
-  - [Tanking](https://github.com/zombull/degenerates#tanking)
-    - [Rules](https://github.com/zombull/degenerates#rules)
-    - [Fines](https://github.com/zombull/degenerates#fines)
+  - [Scoring](#scoring)
+    - [Passing](#passing)
+    - [Rushing](#rushing)
+    - [Receiving](#receiving)
+    - [Miscellaneous](#miscellaneous)
+    - [Kicking](#kicking)
+    - [Defense](#defense)
+  - [Rosters](#rosters)
+  - [Schedule](#schedule)
+    - [Regular Season](#regular-season)
+    - [Playoffs](#playoffs)
+  - [Salaries](#salaries)
+    - [Salary Cap](#salary-cap)
+    - [Player Salaries](#player-salaries)
+    - [Player Raises](#player-raises)
+    - [Roster Changes](#roster-changes)
+  - [Draft](#draft)
+    - [Rookie Draft](#rookie-draft)
+    - [Rookie Draft Pick Trades](#rookie-draft-pick-trades)
+    - [Free Agent Draft](#free-agent-draft)
+    - [Logistics](#logistics)
+  - [Calendar](#calendar)
+  - [Tanking](#tanking)
+    - [Rules](#rules)
+    - [Fines](#fines)
 
 # Scoring
   - Decimal scoring will be used.
@@ -114,8 +114,8 @@ A FLEX position can be filled with a RB, WR or TE.
     - Unfilled roster spots count for $1 against the salary cap
     - Fines for post-deadline roster changes count against the salary cap
   - Teams may exceed the salary cap during the year
-  - Teams over the salary cap cannot participate in trades after the soft deadline (see [Calendar](https://github.com/zombull/degenerates#calendar))
-  - Teams must be under the salary cap at the hard deadline (see [Calendar](https://github.com/zombull/degenerates#calendar))
+  - Teams over the salary cap cannot participate in trades after the soft deadline (see [Calendar](#calendar))
+  - Teams must be under the salary cap at the hard deadline (see [Calendar](#calendar))
     - Teams over the salary cap must immediately cut players to get under the salary cap
     - Teams over the salary cap for more than 24 hours will have players automatically cut based on salary, highest first
     - Appropriate fines apply for cutting players after the soft deadline
@@ -124,14 +124,14 @@ A FLEX position can be filled with a RB, WR or TE.
 
 ### Player Salaries
   - Players drafted in the auction draft have a salary equal to their auction draft cost
-  - Players drafted in the rookie draft have a salary assigned based on their draft position (see [Draft](https://github.com/zombull/degenerates#draft))
+  - Players drafted in the rookie draft have a salary assigned based on their draft position (see [Draft](#draft))
   - Undrafted players have a salary of $0
   - The above rules apply regardless of how a player is acquired, e.g. draft, trade or free agency
 
 ### Player Raises
   - Players kept by a team receive a salary increase of 25% of their ESPN Average Auction Value
   - Salary increases are rounded down to the nearest dollar; this may result in a player receiving no raise
-  - Salary increases are calculated at the soft deadline (see [Calendar](https://github.com/zombull/degenerates#calendar))
+  - Salary increases are calculated at the soft deadline (see [Calendar](#calendar))
 
 ### Roster Changes
   - There is no fine for being over the salary cap during the season
