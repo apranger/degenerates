@@ -176,6 +176,23 @@ A FLEX position can be filled with a RB, WR or TE.
   - Rookie draft will be completed offline, e.g. via email / group chat
   - Free agent draft will be in-person or online, e.g. via ESPN online auction draft
 
+# League Fees and Prizes
+
+### Fees
+  - The league fee is $50 per year, per team
+
+### Bounties
+  - During weeks 1-14, the league will hold weekly contests, aka "Bounties"
+  - The bounties will alternate between "Excellence" and "Futility"
+  - Unless otherwise specified, only active players on a roster qualify for a bounty
+  - Unawarded bounties "carry" to the following week
+
+### Prizes
+  - The $500 prize pool is broken down as follows:
+    - $140 to bounty pool - $10 to each winner
+    - $100 to 1st place, regular season
+    - $160 to 1st place, Super Bowl
+    - $100 to 2nd place, Super Bowl
 
 # Calendar
 
