@@ -140,7 +140,7 @@ A FLEX position can be filled with a RB, WR or TE.
     - Fine is 10% of the player's salary after their raise is applied, per day after the soft deadline
     - Fine is rounded up to the nearest dollar, minimum fine is $1
   - Roster changes are not allowed between the hard deadline and the free agent draft
-  - Players acquire in the rookie draft cannot be dropped prior to the completion of the free agent draft
+  - Players acquired in the rookie draft cannot be dropped prior to the completion of the free agent draft
 
 # Draft
 
