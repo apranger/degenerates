@@ -59,17 +59,17 @@
   10. Adam P.
 
 ## Notable Rule Changes
-  - Added 2 [IR slots](https://github.com/zombull/degenerates#ir-slots)
-  - Decreased [rookie salaries](https://github.com/zombull/degenerates#rookie-draft)
-  - Changed regular season [playoff format](https://github.com/zombull/degenerates#playoffs)
+  - Added 2 [IR slots](#ir-slots)
+  - Decreased [rookie salaries](#rookie-draft)
+  - Changed regular season [playoff format](#playoffs)
     - Regular season is 14 weeks
     - Playoffs are 2 weeks
     - 4 teams make playoffs
     - Standard 1-and-done format (dropping 2-week Super Bowl)
-  - Changed [prize structure](https://github.com/zombull/degenerates#prizes)
+  - Changed [prize structure](#prizes)
     - Added 2nd place Super Bowl
     - Decreased regular season award
-  - Added [Restricted Free Agency](https://github.com/zombull/degenerates#restricted-free-agency)
+  - Added [Restricted Free Agency](#restricted-free-agency)
     - Remember, this rule is designed to allow owners to keep their best players forever, as long as they are willing to pay the market price
     - RFA will be part of the 2018 draft
     - Limit of 2 RFA per owner in 2018
