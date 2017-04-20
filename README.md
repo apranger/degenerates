@@ -144,6 +144,11 @@ A FLEX position can be filled with a RB, WR or TE.
 
 # Draft
 
+### Retained vs. Drafted
+  - Players on a roster who are kept for the following season by an owner choosing to pay their new salary (prior salary + raise) are classified as *retained*
+  - Players obtained via all other means (Rookie draft, Free Agent draft, or undrafted free agent pickup) are broadly classified as *drafted*
+  - Retained players keep the classification all year, including trades and being released to the waiver wire
+
 ### Rookie Draft
   - Fixed order, non-snake, non-auction
   - Order determined by previous year's results using NFL system
@@ -170,13 +175,16 @@ A FLEX position can be filled with a RB, WR or TE.
   - Picks cannot be traded during the draft
 
 ### Restricted Free Agency
-  - Starting in 2018, owners may designate 0 to 2 players as Restricted Free Agents (RFA)
-  - Designated RFAs are set at the soft cap deadline
-  - Drafted players (except retained RFAs) are not eligible for RFA the following year
-  - RFA designation permits an owner to retain a player at his "market price" plus $1
+  - Starting in 2018, owners may designate 0 to 2 players eligible for retention as Restricted Free Agents (RFA)
+  - RFA designation allows an owner to retain a player at a new "market price" plus $1
+  - Designated RFAs are due at the soft cap deadline
+  - Drafted players are not eligible for RFA (ie, players must be retained at least once before becoming eligible)
+  - Players that change ownership in RFA process are considered *drafted*
+  - Players that stay with the designating owner are considered *retained*
+  - Players obtained via trade do not lose RFA eligibility
   - RFA players will be dispositioned in the first two rounds of the Free Agent Auction draft
   - Owners may not exceed the salary cap during the RFA auction
-  - There is no limit to the number of years a player may be designated/retained as a RFA
+  - There is no limit to the number of years the same owner may designate an eligible player for RFA
 
 ### Free Agent Draft
   - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
