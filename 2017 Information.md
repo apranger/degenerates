@@ -73,7 +73,7 @@
     - Remember, this rule is designed to allow owners to keep their best players forever, as long as they are willing to pay the market price
     - RFA will be part of the 2018 draft
     - Limit of 2 RFA per owner in 2018
-    - Players *kept in 2017* are eligible for RFA in 2018
-    - Players *drafted in 2017* are not eligble for RFA in 2018
+    - Players *retained* in 2017 are eligible for RFA in 2018
+    - Players *drafted* in 2017 are not eligble for RFA in 2018
     - Many owners will "overpay" players in 2017 year to retain RFA rights for 2018 (and beyond)
     
