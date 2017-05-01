@@ -125,13 +125,14 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Player Salaries
   - Players drafted in the auction draft have a salary equal to their auction draft cost
   - Players drafted in the rookie draft have a salary assigned based on their draft position (see [Draft](#draft))
-  - Undrafted players have a salary of $0
+  - Undrafted players have a base salary of $0
   - The above rules apply regardless of how a player is acquired, e.g. draft, trade or free agency
 
 ### Player Raises
   - Players kept by a team receive a salary increase of 25% of their ESPN Average Auction Value
   - Salary increases are rounded down to the nearest dollar; this may result in a player receiving no raise
   - Salary increases are calculated at the soft deadline (see [Calendar](#calendar))
+  - The minimum salary to retain a player is $1
 
 ### Roster Changes
   - There is no fine for being over the salary cap during the season
