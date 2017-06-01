@@ -179,6 +179,7 @@ A FLEX position can be filled with a RB, WR or TE.
   - Starting in 2018, owners may designate 0 to 2 players eligible for retention as Restricted Free Agents (RFA)
   - RFA designation allows an owner to retain a player at a new "market price" plus $1
   - Designated RFAs are due at the soft cap deadline
+  - Designated RFAs are treated as dropped to Free Agency until the RFA draft when they are dispositioned
   - Drafted players are not eligible for RFA (ie, players must be retained at least once before becoming eligible)
   - Players that change ownership in RFA process are considered *drafted*
   - Players that stay with the designating owner are considered *retained*
@@ -203,6 +204,7 @@ A FLEX position can be filled with a RB, WR or TE.
     - Player's owner has the option to retain the player at winning bid price + $1, or pass
     - Owners may opt to pass during nomination even if they have players designated for RFA
     - Designated RFAs that were not nominated are placed in the FA draft pool
+    - Player's owner opting to retain must have enough salary cap room to do so
 
 ### Logistics
   - Rookie draft will be completed offline, e.g. via email / group chat
