@@ -18,7 +18,7 @@
   - Adam trades Sean's 1st round pick to Jeremy
 
 ### Offseason Trades
-  - None yet reported
+  - David T trades 1.07 and 2.07 to Bob in exchange for 1.08 and Brandin Cooks
   
 ### Draft Order
 
@@ -29,8 +29,8 @@
   4. Josh H.
   5. Greg G.
   6. David O.
-  7. David T.
-  8. Bob N.
+  7. Bob N. (via B. Cooks trade w/ David T.)
+  8. David T. (via B. Cooks trade w/ Bob N.)
   9. Jeremy B. (via J. Matthews trade w/ Adam)
   10. Sean C. (via P. Rivers trade w/ Adam)
 
@@ -41,7 +41,7 @@
   4. Josh H.
   5. Greg G.
   6. David O.
-  7. David T.
+  7. Bob N. (via B. Cooks trade w/ David T.)
   8. Bob N.
   9. Sean C.
   10. Adam P.
