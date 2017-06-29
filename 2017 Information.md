@@ -5,11 +5,11 @@
 | Date         | Description |
 |--------------|-------------|
 | August 1     | Rules frozen for 2017 |
-| August 6- 12 | Rookie Draft via email / Google Hangouts / Facebook / \<something> |
-| August 14    | "Soft" deadline to hit $300 cap |
-| August 15-21 | Players can be dropped w/ 10% per day penalty |
-| August 21    | "Hard" deadline to hit $300 cap |
-| August 26    | Degenerates Free Agent Auction |
+| August 6- 12 | Rookie Draft via Slack Channel
+| August 21    | "Soft" deadline to hit $300 cap |
+| August 21-28 | Players can be dropped w/ 10% per day penalty |
+| August 28    | "Hard" deadline to hit $300 cap |
+| Sept 1       | Degenerates Free Agent Auction |
 
 ## Draft Information
 
