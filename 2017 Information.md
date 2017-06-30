@@ -5,11 +5,11 @@
 | Date         | Description |
 |--------------|-------------|
 | August 1     | Rules frozen for 2017 |
-| August 6- 12 | Rookie Draft via Slack Channel
+| August 6- 12 | Rookie Draft via Slack Channel |
 | August 21    | "Soft" deadline to hit $300 cap |
 | August 21-28 | Players can be dropped w/ 10% per day penalty |
 | August 28    | "Hard" deadline to hit $300 cap |
-| Sept 1       | Degenerates Free Agent Auction |
+| Sept 2       | Degenerates Free Agent Auction |
 
 ## Draft Information
 
@@ -19,6 +19,7 @@
 
 ### Offseason Trades
   - David T trades 1.07 and 2.07 to Bob in exchange for 1.08 and Brandin Cooks
+  - Bob N trades 1.07 and 3.08 to Josh H in exchange for Delanie Walker, Michael Crabtree, and 3.04
   
 ### Draft Order
 
@@ -29,7 +30,7 @@
   4. Josh H.
   5. Greg G.
   6. David O.
-  7. Bob N. (via B. Cooks trade w/ David T.)
+  7. Josh H. (via M. Crabtree trade w/ Bob N) .. (via B. Cooks trade w/ David T.)
   8. David T. (via B. Cooks trade w/ Bob N.)
   9. Jeremy B. (via J. Matthews trade w/ Adam)
   10. Sean C. (via P. Rivers trade w/ Adam)
@@ -50,11 +51,11 @@
   1. Jeremy B.
   2. Zach Y.
   3. Kevin B.
-  4. Josh H.
+  4. Bob N. (via Crabtree trade w/ Josh H.)
   5. Greg G.
   6. David O.
   7. David T.
-  8. Bob N.
+  8. Josh H. (via Crabtree trade w/ Bob N.)
   9. Sean C.
   10. Adam P.
 
