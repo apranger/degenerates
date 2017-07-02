@@ -20,6 +20,8 @@
 ### Offseason Trades
   - David T trades 1.07 and 2.07 to Bob in exchange for 1.08 and Brandin Cooks
   - Bob N trades 1.07 and 3.08 to Josh H in exchange for Delanie Walker, Michael Crabtree, and 3.04
+  - Bob N trades Delanie Walker to Adam P in exchange for Drew Brees
+  - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
   
 ### Draft Order
 
@@ -56,6 +58,18 @@
   6. David O.
   7. David T.
   8. Josh H. (via Crabtree trade w/ Bob N.)
+  9. Sean C.
+  10. Adam P.
+
+#### Fourth Round
+  1. Jeremy B.
+  2. Zach Y.
+  3. Kevin B.
+  4. Bob N. (via Roethlisburger trade w/ Josh H.) 
+  5. Greg G.
+  6. David O.
+  7. David T.
+  8. Josh H. (via Roethlisburger trade w/ Bob N.)
   9. Sean C.
   10. Adam P.
 
