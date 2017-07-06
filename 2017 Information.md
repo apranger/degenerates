@@ -9,7 +9,7 @@
 | August 21    | "Soft" deadline to hit $300 cap |
 | August 21-28 | Players can be dropped w/ 10% per day penalty |
 | August 28    | "Hard" deadline to hit $300 cap |
-| Sept 2       | Degenerates Free Agent Auction |
+| August 30    | Degenerates Free Agent Auction - 8pm Pacific |
 
 ## Draft Information
 
