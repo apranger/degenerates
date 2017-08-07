@@ -22,6 +22,7 @@
   - Bob N trades 1.07 and 3.08 to Josh H in exchange for Delanie Walker, Michael Crabtree, and 3.04
   - Bob N trades Delanie Walker to Adam P in exchange for Drew Brees
   - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
+  - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
   
 ### Draft Order
 
@@ -39,7 +40,7 @@
 
 #### Second Round
   1. Jeremy B.
-  2. Zach Y.
+  2. Adam P. (via D. Bryant trade w/ Zach Y.)
   3. Kevin B.
   4. Josh H.
   5. Greg G.
