@@ -23,6 +23,7 @@
   - Bob N trades Delanie Walker to Adam P in exchange for Drew Brees
   - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
   - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
+  - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
   
 ### Draft Order
 
