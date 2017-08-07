@@ -24,6 +24,7 @@
   - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
   - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
   - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
+  - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
   
 ### Draft Order
 
@@ -52,7 +53,7 @@
   10. Adam P.
 
 #### Third Round
-  1. Jeremy B.
+  1. Adam P. (via Jeremy Maclin trade w/ Jeremy B.)
   2. Zach Y.
   3. Kevin B.
   4. Bob N. (via Crabtree trade w/ Josh H.)
@@ -61,7 +62,7 @@
   7. David T.
   8. Josh H. (via Crabtree trade w/ Bob N.)
   9. Sean C.
-  10. Adam P.
+  10. Sean C. (via Geronimo Allison trade w/ Adam P.)
 
 #### Fourth Round
   1. Jeremy B.
