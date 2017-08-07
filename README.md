@@ -172,8 +172,7 @@ A FLEX position can be filled with a RB, WR or TE.
 
 ### Rookie Draft Pick Trades
   - Rookie draft picks may be traded for players or other draft picks
-  - Trades involving picks must be finalized and announced prior to the rookie draft
-  - Picks cannot be traded during the draft
+  - Rookie draft picks may be traded during the rookie draft
 
 ### Restricted Free Agency
   - Starting in 2018, owners may designate 0 to 2 players eligible for retention as Restricted Free Agents (RFA)
