@@ -25,6 +25,7 @@
   - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
   - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
   - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
+  - Sean C trades Taylor Gabrield to David T in exchange for 3.07
   
 ### Draft Order
 
@@ -59,7 +60,7 @@
   4. Bob N. (via Crabtree trade w/ Josh H.)
   5. Greg G.
   6. David O.
-  7. David T.
+  7. Sean C. (via Taylor Gabriel trade w/ David T.)
   8. Josh H. (via Crabtree trade w/ Bob N.)
   9. Sean C.
   10. Sean C. (via Geronimo Allison trade w/ Adam P.)
