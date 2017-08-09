@@ -25,7 +25,8 @@
   - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
   - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
   - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
-  - Sean C trades Taylor Gabrield to David T in exchange for 3.07
+  - Sean C trades Taylor Gabriel to David T in exchange for 3.07
+  - Adam P trades Travis Kelce to Zach Y in exchange for Emmanuel Sanders
   
 ### Draft Order
 
