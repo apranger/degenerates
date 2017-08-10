@@ -27,6 +27,7 @@
   - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
   - Sean C trades Taylor Gabriel to David T in exchange for 3.07
   - Adam P trades Travis Kelce to Zach Y in exchange for Emmanuel Sanders
+  - Adam P trades Kelvin Benjamin and 2018 3rd to Bob N. in exchange for Stefon Diggs
   
 ### Draft Order
 
