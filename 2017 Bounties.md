@@ -1,7 +1,7 @@
 |Week|E/F|Bounty|Goal|
 |----- |--- |--- |--- |
 | 1|Excellence|Pay Dirt|Most total touchdowns scored by starters |
-| 2|Futility|Kicking Himself|Team with Kicker outscoring the starting QB by the largest amount (*TD pass is automatic win)|
+| 2|Futility|What a Waste!|Starter with highest percentage of total points scored for a losing team|
 | 3|Excellence|2001 Patriots|Smallest margin of victory|
 | 4|Futility|2007 Patriots|Most points scored and still lost|
 | 5|Excellence|Even Steven|Smallest standard deviation of starters|
