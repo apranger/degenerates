@@ -10,6 +10,7 @@
 | 8|Futility|Laces Out|Most missed field goals + extra points. 1st tiebreak to most missed XP. 2nd tiebreak to shortest miss.|
 | 9|Excellence|Who Does #2 Work For?|Highest Total of Second Best RB + Second Best WR/TE|
 | 10|Futility|Browns GM|Furthest from optimal start (percentage based)|
-| 11|Excellence|Doing It From Distance|Longest rushing or receiving scoring play by any player (passing does not count).|
+| 11|Excellence|Doing It From Distance|Longest rushing or receiving scoring play by any starting player (passing does not count).|
 | 12|Futility|Shoulda Started Butt Fumble|Biggest difference between best bench QB and actual starting QB.|
 | 13|Excellence|That Would Be Perfection|Closest to optimal start (percentage based).|
+| 14|Futility|Slippery Piggy|Most turnovers by starters.  1st tiebreaker: Include all fumbles.  2nd tiebreaker:  Most pick-6 / fumble-6 given up.  3rd tiebreak:  Closest to the end zone when fumbled (line of scrimage for passes, spot of fumble)|
