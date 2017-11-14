@@ -18,7 +18,7 @@
   
 ### 2017 Trades for Draft Picks
   - Bob N trades Joe Williams to Josh H in exchange for 2018 5th and 2019 5th
-  - Josh H trades Cooper Kupp, his 2018 1st and 2018 4th, and conditional swap of 2018 2nd to David T for Mike Evans and Austin Sefarian-Jenkins
+  - Josh H trades Cooper Kupp, his 2018 1st and 2018 4th, 2019 4th, and conditional swap of 2018 2nd to David T for Mike Evans and Austin Sefarian-Jenkins
 
 ### 2018 Draft Picks
 
