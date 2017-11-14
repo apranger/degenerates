@@ -16,23 +16,24 @@
   - Adam P trades Travis Kelce to Zach Y in exchange for Emmanuel Sanders
   - Adam P trades Kelvin Benjamin and 2018 3rd to Bob N. in exchange for Stefon Diggs
   
-### 2018 Trades for Draft Picks
+### 2017 Trades for Draft Picks
   - Bob N trades Joe Williams to Josh H in exchange for 2018 5th and 2019 5th
+  - Josh H trades Cooper Kupp, his 2018 1st and 2018 4th, and conditional swap of 2018 2nd to David T for Mike Evans and Austin Sefarian-Jenkins
 
 ### 2018 Draft Picks
 
-| Owner   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
-|---------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Adam    | -   | -   | Bob | -   | -   | -   | -   |
-| Bob     | -   | -   | -   | -   | -   | -   | -   |
-| Sean    | -   | -   | -   | -   | -   | -   | -   |
-| David T | -   | -   | -   | -   | -   | -   | -   |
-| David O | -   | -   | -   | -   | -   | -   | -   |
-| Jeremy  | -   | -   | -   | -   | -   | -   | -   |
-| Kevin   | -   | -   | -   | -   | -   | -   | -   |
-| Josh    | -   | -   | -   | -   | Bob | -   | -   |
-| Zach    | -   | -   | -   | -   | -   | -   | -   |
-| Greg    | -   | -   | -   | -   | -   | -   | -   |
+| Owner   | 1st     | 2nd                      | 3rd | 4th     | 5th | 6th | 7th |
+|---------|:-------:|:------------------------:|:---:|:-------:|:---:|:---:|:---:|
+| Adam    | -       | -                        | Bob | -       | -   | -   | -   |
+| Bob     | -       | -                        | -   | -       | -   | -   | -   |
+| Sean    | -       | -                        | -   | -       | -   | -   | -   |
+| David T | -       | -                        | -   | -       | -   | -   | -   |
+| David O | -       | -                        | -   | -       | -   | -   | -   |
+| Jeremy  | -       | -                        | -   | -       | -   | -   | -   |
+| Kevin   | -       | -                        | -   | -       | -   | -   | -   |
+| Josh    | David T | David T (option to swap) | -   | David T | Bob | -   | -   |
+| Zach    | -       | -                        | -   | -       | -   | -   | -   |
+| Greg    | -       | -                        | -   | -       | -   | -   | -   |
 
 
 ### 2019 Draft Picks
