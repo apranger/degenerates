@@ -248,7 +248,7 @@ A FLEX position can be filled with a RB, WR or TE.
 | Wednesday after Week 13 | Trade deadline, start of "dark period" - No trades during playoffs |
 | Tuesday after Week 16   | "Dark period" ends, trades and add/drops resume |
 | Wednesday after Week 17 | Offseason begins - No add/drops |
-| July 4th weekend        | Offseason ends |
+| July 4th weekend        | Offseason ends, regular season begins |
 
 # Offseason
   - Offseason runs from end of week 17 to July 4th.
