@@ -238,6 +238,7 @@ A FLEX position can be filled with a RB, WR or TE.
 | August | Week 2-3        | Players dropped after soft deadline, before hard deadline get a 10% per day penalty |
 | August | Week 3, Monday\*| One week til the free agent draft, hard deadline to get under the salary cap |
 | August | Week 4\*        | Free agent draft |
+
 \*These dates are estimates as the are relative to the day of the free agent draft.
 
 # Midseason / Postseason Calendar
