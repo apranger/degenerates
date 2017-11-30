@@ -19,21 +19,23 @@
 ### 2017 Trades for Draft Picks
   - Bob N trades Joe Williams to Josh H in exchange for 2018 5th and 2019 5th
   - Josh H trades Cooper Kupp, his 2018 1st and 2018 4th, 2019 4th, and conditional swap of 2018 2nd to David T for Mike Evans and Austin Sefarian-Jenkins
+  - Adam P trades Demarco Murray to Kevin B in exchange for Zay Jones and 2018 2nd
+  - Bob N trades 2018 3rd and Adam P's 2018 3rd to Greg G in exchange for Dion Lewis
 
 ### 2018 Draft Picks
 
-| Owner   | 1st     | 2nd                      | 3rd | 4th     | 5th | 6th | 7th |
-|---------|:-------:|:------------------------:|:---:|:-------:|:---:|:---:|:---:|
-| Adam    | -       | -                        | Bob | -       | -   | -   | -   |
-| Bob     | -       | -                        | -   | -       | -   | -   | -   |
-| Sean    | -       | -                        | -   | -       | -   | -   | -   |
-| David T | -       | -                        | -   | -       | -   | -   | -   |
-| David O | -       | -                        | -   | -       | -   | -   | -   |
-| Jeremy  | -       | -                        | -   | -       | -   | -   | -   |
-| Kevin   | -       | -                        | -   | -       | -   | -   | -   |
-| Josh    | David T | David T (option to swap) | -   | David T | Bob | -   | -   |
-| Zach    | -       | -                        | -   | -       | -   | -   | -   |
-| Greg    | -       | -                        | -   | -       | -   | -   | -   |
+| Owner   | 1st     | 2nd                      | 3rd  | 4th     | 5th | 6th | 7th |
+|---------|:-------:|:------------------------:|:----:|:-------:|:---:|:---:|:---:|
+| Adam    | -       | -                        | Greg | -       | -   | -   | -   |
+| Bob     | -       | -                        | Greg | -       | -   | -   | -   |
+| Sean    | -       | -                        | -    | -       | -   | -   | -   |
+| David T | -       | -                        | -    | -       | -   | -   | -   |
+| David O | -       | -                        | -    | -       | -   | -   | -   |
+| Jeremy  | -       | -                        | -    | -       | -   | -   | -   |
+| Kevin   | -       | Adam                     | -    | -       | -   | -   | -   |
+| Josh    | David T | David T (option to swap) | -    | David T | Bob | -   | -   |
+| Zach    | -       | -                        | -    | -       | -   | -   | -   |
+| Greg    | -       | -                        | -    | -       | -   | -   | -   |
 
 
 ### 2019 Draft Picks
