@@ -243,6 +243,7 @@ A FLEX position can be filled with a RB, WR or TE.
 # Midseason / Postseason Calendar
 
 | Week / Day              | Event |
+| ----------------------- | ------|
 | Wednesday after Week 13 | Trade deadline, start of "dark period" - No trades during playoffs |
 | Tuesday after Week 16   | "Dark period" ends, trades and add/drops resume |
 | Wednesday after Week 17 | Offseason begins - No add/drops |
