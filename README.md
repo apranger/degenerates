@@ -228,7 +228,7 @@ A FLEX position can be filled with a RB, WR or TE.
     - $100 to 2nd place, Super Bowl
   - The Super Bowl winner receives naming rights for the Toilet Bowl loser for the following season.
 
-# Calendar
+# Preseason Calendar
 
 | Month  | Week / Day      | Event |
 | ------ | ----------------| ----- |
@@ -238,9 +238,21 @@ A FLEX position can be filled with a RB, WR or TE.
 | August | Week 2-3        | Players dropped after soft deadline, before hard deadline get a 10% per day penalty |
 | August | Week 3, Monday\*| One week til the free agent draft, hard deadline to get under the salary cap |
 | August | Week 4\*        | Free agent draft |
-
 \*These dates are estimates as the are relative to the day of the free agent draft.
 
+# Midseason / Postseason Calendar
+
+| Week / Day              | Event |
+| Wednesday after Week 13 | Trade deadline, start of "dark period" - No trades during playoffs |
+| Tuesday after Week 16   | "Dark period" ends, trades and add/drops resume |
+| Wednesday after Week 17 | Offseason begins - No add/drops |
+| July 4th weekend        | Offseason ends |
+
+# Offseason
+  - Offseason runs from end of week 17 to July 4th.
+  - Participation is optional during the offseason.
+  - Participation is expected during the regular season
+  - Trades are allowed during the offseason
 
 # Tanking
 
