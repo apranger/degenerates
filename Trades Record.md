@@ -29,11 +29,11 @@
 | Adam    | -       | -                        | Greg | -       | -   | -   | -   |
 | Bob     | -       | -                        | Greg | -       | -   | -   | -   |
 | Sean    | -       | -                        | -    | -       | -   | -   | -   |
-| David T | -       | -                        | -    | -       | -   | -   | -   |
+| David T | -       | Josh                     | -    | -       | -   | -   | -   |
 | David O | -       | -                        | -    | -       | -   | -   | -   |
 | Jeremy  | -       | -                        | -    | -       | -   | -   | -   |
 | Kevin   | -       | Adam                     | -    | -       | -   | -   | -   |
-| Josh    | David T | David T (option to swap) | -    | David T | Bob | -   | -   |
+| Josh    | David T | David T                  | -    | David T | Bob | -   | -   |
 | Zach    | -       | -                        | -    | -       | -   | -   | -   |
 | Greg    | -       | -                        | -    | -       | -   | -   | -   |
 
