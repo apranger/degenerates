@@ -23,16 +23,11 @@
   - Bob N trades 2018 3rd and Adam P's 2018 3rd to Greg G in exchange for Dion Lewis
 
 ### Pre-2018 Offseason Trades
-  - David T trades 1.07 and 2.07 to Bob in exchange for 1.08 and Brandin Cooks
-  - Bob N trades 1.07 and 3.08 to Josh H in exchange for Delanie Walker, Michael Crabtree, and 3.04
-  - Bob N trades Delanie Walker to Adam P in exchange for Drew Brees
-  - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
-  - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
-  - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
-  - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
-  - Sean C trades Taylor Gabriel to David T in exchange for 3.07
-  - Adam P trades Travis Kelce to Zach Y in exchange for Emmanuel Sanders
-  - Adam P trades Kelvin Benjamin and 2018 3rd to Bob N. in exchange for Stefon Diggs
+  - Sean trades Keenan Allen to David T for 2018 1.03, 5.07 and 7.07.
+  - Sean trades Cam Newton to Greg for 2019 2nd and 2020 2nd
+  - Sean trades 2018 1.03, 1.10 and Jamaal Williams for Adam's 2018 5.09, 2018 6.09, 2019 1st, 2020 1st and Robby Anderson
+  - Adam trades 2018 1.03, 1.09, 1.10, and 2.05 to Greg for 2018 1.01
+  
 
 ### 2018 Trades for Draft Picks
   - .
@@ -51,7 +46,7 @@
 | Kevin   | -       | Greg                     | -    | -       | -   | -   | -   |
 | Josh    | Greg | David T                  | -    | David T | Bob | -   | -   |
 | Zach    | -       | -                        | -    | -       | -   | -   | -   |
-| Greg    | -       | -                        | -    | -       | -   | -   | -   |
+| Greg    | Adam       | -                        | -    | -       | -   | -   | -   |
 
 
 ### 2019 Draft Picks
