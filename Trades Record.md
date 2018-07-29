@@ -22,18 +22,34 @@
   - Adam P trades Demarco Murray to Kevin B in exchange for Zay Jones and 2018 2nd
   - Bob N trades 2018 3rd and Adam P's 2018 3rd to Greg G in exchange for Dion Lewis
 
+### Pre-2018 Offseason Trades
+  - David T trades 1.07 and 2.07 to Bob in exchange for 1.08 and Brandin Cooks
+  - Bob N trades 1.07 and 3.08 to Josh H in exchange for Delanie Walker, Michael Crabtree, and 3.04
+  - Bob N trades Delanie Walker to Adam P in exchange for Drew Brees
+  - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
+  - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
+  - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
+  - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
+  - Sean C trades Taylor Gabriel to David T in exchange for 3.07
+  - Adam P trades Travis Kelce to Zach Y in exchange for Emmanuel Sanders
+  - Adam P trades Kelvin Benjamin and 2018 3rd to Bob N. in exchange for Stefon Diggs
+
+### 2018 Trades for Draft Picks
+  - .
+  - .
+
 ### 2018 Draft Picks
 
 | Owner   | 1st     | 2nd                      | 3rd  | 4th     | 5th | 6th | 7th |
 |---------|:-------:|:------------------------:|:----:|:-------:|:---:|:---:|:---:|
-| Adam    | -       | -                        | Greg | -       | -   | -   | -   |
+| Adam    | Greg       | -                        | Greg | -       | Sean   | Sean   | -   |
 | Bob     | -       | -                        | Greg | -       | -   | -   | -   |
-| Sean    | -       | -                        | -    | -       | -   | -   | -   |
-| David T | -       | Josh                     | -    | -       | -   | -   | -   |
+| Sean    | Greg       | -                        | -    | -       | -   | -   | -   |
+| David T | -       | Josh                     | -    | -       | Sean   | -   | Sean   |
 | David O | -       | -                        | -    | -       | -   | -   | -   |
 | Jeremy  | -       | -                        | -    | -       | -   | -   | -   |
-| Kevin   | -       | Adam                     | -    | -       | -   | -   | -   |
-| Josh    | David T | David T                  | -    | David T | Bob | -   | -   |
+| Kevin   | -       | Greg                     | -    | -       | -   | -   | -   |
+| Josh    | Greg | David T                  | -    | David T | Bob | -   | -   |
 | Zach    | -       | -                        | -    | -       | -   | -   | -   |
 | Greg    | -       | -                        | -    | -       | -   | -   | -   |
 
@@ -42,7 +58,7 @@
 
 | Owner   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
 |---------|-----|-----|-----|-----|-----|-----|-----|
-| Adam    | -   | -   | -   | -   | -   | -   | -   |
+| Adam    | Sean   | -   | -   | -   | -   | -   | -   |
 | Bob     | -   | -   | -   | -   | -   | -   | -   |
 | Sean    | -   | -   | -   | -   | -   | -   | -   |
 | David T | -   | -   | -   | -   | -   | -   | -   |
@@ -51,4 +67,21 @@
 | Kevin   | -   | -   | -   | -   | -   | -   | -   |
 | Josh    | -   | -   | -   | David T   | Bob | -   | -   |
 | Zach    | -   | -   | -   | -   | -   | -   | -   |
-| Greg    | -   | -   | -   | -   | -   | -   | -   |
+| Greg    | -   | Sean   | -   | -   | -   | -   | -   |
+
+
+### 2020 Draft Picks
+
+| Owner   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
+|---------|-----|-----|-----|-----|-----|-----|-----|
+| Adam    | Sean   | -   | -   | -   | -   | -   | -   |
+| Bob     | -   | -   | -   | -   | -   | -   | -   |
+| Sean    | -   | -   | -   | -   | -   | -   | -   |
+| David T | -   | -   | -   | -   | -   | -   | -   |
+| David O | -   | -   | -   | -   | -   | -   | -   |
+| Jeremy  | -   | -   | -   | -   | -   | -   | -   |
+| Kevin   | -   | -   | -   | -   | -   | -   | -   |
+| Josh    | -   | -   | -   | -   | -   | -   | -   |
+| Zach    | -   | -   | -   | -   | -   | -   | -   |
+| Greg    | -   | Sean   | -   | -   | -   | -   | -   |
+
