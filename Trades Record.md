@@ -11,7 +11,7 @@
   - Bob N trades Ben Roethlisburger and 4.08 to Josh H for 4.04
   - Adam P trades Dez Bryant to Zach Y in exchange for 2.02
   - Adam P trades Jeremy Maclin to Jeremy B in exchange for 3.01
-  - Sean C trades Geronimo Allison to Sean C in exchnage for 3.10
+  - Sean C trades Geronimo Allison to Adam in exchnage for 3.10
   - Sean C trades Taylor Gabriel to David T in exchange for 3.07
   - Adam P trades Travis Kelce to Zach Y in exchange for Emmanuel Sanders
   - Adam P trades Kelvin Benjamin and 2018 3rd to Bob N. in exchange for Stefon Diggs
