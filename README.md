@@ -10,9 +10,11 @@
   - [Schedule](#schedule)
     - [Regular Season](#regular-season)
     - [Playoffs](#playoffs)
-  - [Salaries](#salaries)
+  - [Salaries](#salaries-and-contracts)
     - [Salary Cap](#salary-cap)
     - [Player Salaries](#player-salaries)
+    - [Market Value](#market-value)
+    - [Player Contracts](#player-contracts)
     - [Player Raises](#player-raises)
     - [Roster Changes](#roster-changes)
   - [Draft](#draft)
@@ -69,7 +71,7 @@ A FLEX position can be filled with a RB, WR or TE.
 | QB       | 1       |     4    |
 | RB       | 2       | no limit |
 | WR       | 2       | no limit |
-| TE       | 1       |        4 |
+| TE       | 1       |        5 |
 | FLEX     | 1       |      n/a |
 | K        | 1       |        3 |
 | D/ST     | 0       |      n/a |
@@ -107,7 +109,7 @@ A FLEX position can be filled with a RB, WR or TE.
   - Loser advances to determine the worst team of the season
   - Bracket: (#8 vs #9) vs (#7 vs #10)
 
-# Salaries
+# Salaries and Contracts
 
 ### Salary Cap
   - Salary cap is $300
@@ -128,14 +130,28 @@ A FLEX position can be filled with a RB, WR or TE.
   - Undrafted players have a base salary of $0
   - The above rules apply regardless of how a player is acquired, e.g. draft, trade or free agency
 
+### Market Value
+  - Players market price, used to set yearly raises, will be set using a Value Above Replacement (VAR) method
+  - Player replacement level will be set using the "man games demand" method (also made popular by "Beersheets") written by [Frank Dupont for Rotoworld](http://www.rotoworld.com/articles/nfl/41100/71/draft-analysis)
+  - Player salaries are based on a $300 market price, $1 minimum per roster spot, with all remaining dollars allocated to each player based proportionaly on his VAR versus the total VAR pool.
+
+### Player Contracts
+  - Player contract status "resets" only when they are eligible for the free agent auction (e.g., when an owner cuts them in the offseason, or tags them for RFA, or they enter FFA)
+  - Players drafted in the rookie draft are on a _rookie contract_
+  - Players drafted in the free agent auction are on a _free agent contract_
+  - Undrafted players claimed off waivers are on a _free agent contract_
+
 ### Player Raises
-  - Players kept by a team receive a salary increase of 25% of their ESPN Average Auction Value
+  - Players on a _free agent contract_ get raises of 15% of VAR-based market price.
+    - In 2018 only, players on a _free agent contract_ get raises of 12.5% of VAR-based market price.
+  - Players on a _rookie contract_ get raises of 30% of VAR-based market prices
+    - In 2018 only, players on a _rookie contract_ get raises of 25% of VAR-based market prices
   - Salary increases are rounded down to the nearest dollar; this may result in a player receiving no raise
   - Salary increases are calculated at the soft deadline (see [Calendar](#calendar))
   - The minimum salary to retain a player is $1
 
 ### Roster Changes
-  - There is no fine for being over the salary cap during the season
+  - The salary cap has no effect during the regular season (i.e., after the Free Agent Auction)
   - Roster changes prior to the soft deadline are free
   - Roster changes after the soft deadline incur a fine as a cap hit
     - Fine is 10% of the player's salary after their raise is applied, per day after the soft deadline
@@ -157,10 +173,9 @@ A FLEX position can be filled with a RB, WR or TE.
     - Teams lose in round 1 of the playoffs are seeded at 7 and 8 based on the reverse of their regular season record (worst to first)
     - The team that loses the Super bowl is seeded at pick 9
     - The Super Bowl winner is seeded at pick 10
+  - The draft is 7 rounds
   - Teams may opt to pass on a draft pick
-  - Draft continues until all teams have passed
-  - Draft will last a minimum of 3 rounds
-  - Teams cannot re-enter the draft after passing in round 3 or later
+  - Teams that pass in any round may still draft in later rounds
   - Rookie salaries are determined based on draft pick
 
     | Pick (Overall)     | Round | Salary |
@@ -168,7 +183,9 @@ A FLEX position can be filled with a RB, WR or TE.
     | 1-5                | 1     | $6     |
     | 6-10               | 1     | $5     |
     | 11-20              | 2     | $4     |
-    | 21+                | 3+    | $3     |
+    | 21-30              | 3     | $3     |
+    | 31-40              | 4     | $2     |
+    | 41-70              | 5-7   | $1     |
 
 ### Rookie Draft Pick Trades
   - Rookie draft picks may be traded for players or other draft picks
@@ -186,6 +203,14 @@ A FLEX position can be filled with a RB, WR or TE.
   - RFA players will be dispositioned in the first two rounds of the Free Agent Auction draft
   - Owners may not exceed the salary cap during the RFA auction
   - There is no limit to the number of years the same owner may designate an eligible player for RFA
+
+### Forced Free Agency
+  - Players on _free agent contracts_ retained for 2 consecutive seasons (i.e., 3 seasons of play) become Forced Free Agents (FFA) the following season.
+    - The first year of FFA will be the 4th year of the league (2019)
+    - Free agents from 2016, kept for 2 consecutive seasons (2017, 2018), become Forced Free Agents in 2019
+  - Players on _rookie contracts_ do not enter Forced Free Agency
+  - Owners may tag FFA players for RFA
+  - Owners who retain a player through RFA still reset the FFA counter to 0
 
 ### Free Agent Draft
   - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
