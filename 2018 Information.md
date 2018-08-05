@@ -36,7 +36,7 @@
   7. Josh H. (via David T.)
   8. Bob N.
   9. Adam P.
-  10. Sean C. 
+  10. Bob N. (via Sean)
 
 #### Third Round
   1. Greg G.
@@ -48,7 +48,7 @@
   7. David T.
   8. Greg G (via Bob)
   9. Greg G (via Adam)
-  10. Sean C. 
+  10. Bob N. (via Sean)
 
 #### Fourth Round
   1. Greg G.
@@ -70,7 +70,7 @@
   5. Kevin B.
   6. Zach Y.
   7. Sean C. (via David T.)
-  8. Bob N.
+  8. Sean C. (via Bob)
   9. Sean C. (via Adam)
   10. Sean C. 
 
