@@ -35,34 +35,34 @@
 
 ### 2018 Draft Picks
 
-| Owner   | 1st     | 2nd                      | 3rd  | 4th     | 5th | 6th | 7th |
-|---------|:-------:|:------------------------:|:----:|:-------:|:---:|:---:|:---:|
-| Adam    | Greg       | -                        | Greg | -       | Sean   | Sean   | -   |
-| Bob     | -       | -                        | Greg | -       | -   | -   | -   |
-| Sean    | Greg       | -                        | -    | -       | -   | -   | -   |
-| David T | -       | Josh                     | -    | -       | Sean   | -   | Sean   |
-| David O | -       | -                        | -    | -       | -   | -   | -   |
-| Jeremy  | -       | -                        | -    | -       | -   | -   | -   |
-| Kevin   | -       | Greg                     | -    | -       | -   | -   | -   |
-| Josh    | Greg | David T                  | -    | David T | Bob | -   | -   |
-| Zach    | -       | -                        | -    | -       | -   | -   | -   |
-| Greg    | Adam       | -                        | -    | -       | -   | -   | -   |
+| Owner   | 1st     | 2nd           | 3rd  | 4th     | 5th  | 6th  | 7th  |
+|---------|:-------:|:-------------:|:----:|:-------:|:----:|:----:|:----:|
+| Adam    | Greg    | -             | Greg | -       | Sean | Sean | -    |
+| Bob     | -       | -             | Greg | -       | Sean | -    | -    |
+| Sean    | Greg    | Bob           | Bob  | -       | -    | -    | -    |
+| David T | -       | Josh          | -    | -       | Sean | -    | Sean |
+| David O | -       | -             | -    | -       | -    | -    | -    |
+| Jeremy  | -       | -             | -    | -       | -    | -    | -    |
+| Kevin   | -       | Greg          | -    | -       | -    | -    | -    |
+| Josh    | Greg    | David T       | -    | David T | Bob  | -    | -    |
+| Zach    | -       | -             | -    | -       | -    | -    | -    |
+| Greg    | Adam    | -             | -    | -       | -    | -    | -    |
 
 
 ### 2019 Draft Picks
 
-| Owner   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th |
-|---------|-----|-----|-----|-----|-----|-----|-----|
-| Adam    | Sean   | -   | -   | -   | -   | -   | -   |
-| Bob     | -   | -   | -   | -   | -   | -   | -   |
-| Sean    | -   | -   | -   | -   | -   | -   | -   |
-| David T | -   | -   | -   | -   | -   | -   | -   |
-| David O | -   | -   | -   | -   | -   | -   | -   |
-| Jeremy  | -   | -   | -   | -   | -   | -   | -   |
-| Kevin   | -   | -   | -   | -   | -   | -   | -   |
-| Josh    | -   | -   | -   | David T   | Bob | -   | -   |
-| Zach    | -   | -   | -   | -   | -   | -   | -   |
-| Greg    | -   | Sean   | -   | -   | -   | -   | -   |
+| Owner   | 1st  | 2nd  | 3rd | 4th     | 5th | 6th | 7th |
+|---------|------|------|-----|---------|-----|-----|-----|
+| Adam    | Sean | -    | -   | -       | -   | -   | -   |
+| Bob     | -    | Sean | -   | -       | -   | -   | -   |
+| Sean    | -    | -    | -   | -       | -   | -   | -   |
+| David T | -    | -    | -   | -       | -   | -   | -   |
+| David O | -    | -    | -   | -       | -   | -   | -   |
+| Jeremy  | -    | -    | -   | -       | -   | -   | -   |
+| Kevin   | -    | -    | -   | -       | -   | -   | -   |
+| Josh    | -    | -    | -   | David T | Bob | -   | -   |
+| Zach    | -    | -    | -   | -       | -   | -   | -   |
+| Greg    | -    | Sean | -   | -       | -   | -   | -   |
 
 
 ### 2020 Draft Picks
