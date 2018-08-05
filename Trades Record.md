@@ -27,7 +27,7 @@
   - Sean trades Cam Newton to Greg for 2019 2nd and 2020 2nd
   - Sean trades 2018 1.03, 1.10 and Jamaal Williams for Adam's 2018 5.09, 2018 6.09, 2019 1st, 2020 1st and Robby Anderson
   - Adam trades 2018 1.03, 1.09, 1.10, and 2.05 to Greg for 2018 1.01
-  
+  - Sean trades 2.10 and 3.10 to Bob for 2018 5.08 and 2019 2nd round
 
 ### 2018 Trades for Draft Picks
   - .
