@@ -53,11 +53,11 @@
 #### Fourth Round
   1. Greg G.
   2. David O.
-  3. Josh H.
+  3. David T. (via Josh)
   4. Jeremy B.
   5. Kevin B.
   6. Zach Y.
-  7. Josh H. (via David T.)
+  7. David T.
   8. Bob N.
   9. Adam P.
   10. Sean C. 
