@@ -32,7 +32,7 @@
   3. David T. (via Josh H.)
   4. Jeremy B.
   5. Greg G. (via Adam / Kevin)
-  6. Zach Y.
+  6. Josh H. (via Zach)
   7. Josh H. (via David T.)
   8. Bob N.
   9. Adam P.
@@ -44,7 +44,7 @@
   3. Josh H.
   4. Jeremy B.
   5. Kevin B
-  6. Zach Y.
+  6. Josh H. (via Zach)
   7. David T.
   8. Greg G (via Bob)
   9. Greg G (via Adam)
