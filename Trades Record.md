@@ -29,6 +29,7 @@
   - Adam trades 2018 1.03, 1.09, 1.10, and 2.05 to Greg for 2018 1.01
   - Sean trades 2.10 and 3.10 to Bob for 2018 5.08 and 2019 2nd round
   - Josh trades Ty Montgomery & Sterling Shepard to Zach for 2018 2.06 & 2018 3.06
+  - Sean trades Matt Breida, Cameron Brate, O.J. Howard and 2019 6th to Adam for 2019 2nd and 2019 5th.
 
 ### 2018 Trades for Draft Picks
   - .
@@ -52,18 +53,18 @@
 
 ### 2019 Draft Picks
 
-| Owner   | 1st  | 2nd  | 3rd | 4th     | 5th | 6th | 7th |
-|---------|------|------|-----|---------|-----|-----|-----|
-| Adam    | Sean | -    | -   | -       | -   | -   | -   |
-| Bob     | -    | Sean | -   | -       | -   | -   | -   |
-| Sean    | -    | -    | -   | -       | -   | -   | -   |
-| David T | -    | -    | -   | -       | -   | -   | -   |
-| David O | -    | -    | -   | -       | -   | -   | -   |
-| Jeremy  | -    | -    | -   | -       | -   | -   | -   |
-| Kevin   | -    | -    | -   | -       | -   | -   | -   |
-| Josh    | -    | -    | -   | David T | Bob | -   | -   |
-| Zach    | -    | -    | -   | -       | -   | -   | -   |
-| Greg    | -    | Sean | -   | -       | -   | -   | -   |
+| Owner   | 1st  | 2nd  | 3rd | 4th     | 5th  | 6th  | 7th |
+|---------|------|------|-----|---------|------|------|-----|
+| Adam    | Sean | Sean | -   | -       | Sean | -    | -   |
+| Bob     | -    | Sean | -   | -       | -    | Adam | -   |
+| Sean    | -    | -    | -   | -       | -    | -    | -   |
+| David T | -    | -    | -   | -       | -    | -    | -   |
+| David O | -    | -    | -   | -       | -    | -    | -   |
+| Jeremy  | -    | -    | -   | -       | -    | -    | -   |
+| Kevin   | -    | -    | -   | -       | -    | -    | -   |
+| Josh    | -    | -    | -   | David T | Bob  | -    | -   |
+| Zach    | -    | -    | -   | -       | -    | -    | -   |
+| Greg    | -    | Sean | -   | -       | -    | -    | -   |
 
 
 ### 2020 Draft Picks
