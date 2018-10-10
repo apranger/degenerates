@@ -32,7 +32,7 @@
   - Sean trades Matt Breida, Cameron Brate, O.J. Howard and 2019 6th to Adam for 2019 2nd and 2019 5th.
 
 ### 2018 Trades for Draft Picks
-  - .
+  - Bob trades Antonio Brown to David T for 2019 1st and 2020 1st.
   - .
 
 ### 2018 Draft Picks
@@ -58,7 +58,7 @@
 | Adam    | Sean | Sean | -   | -       | Sean | -    | -   |
 | Bob     | -    | Sean | -   | -       | -    | Adam | -   |
 | Sean    | -    | -    | -   | -       | -    | -    | -   |
-| David T | -    | -    | -   | -       | -    | -    | -   |
+| David T | Bob  | -    | -   | -       | -    | -    | -   |
 | David O | -    | -    | -   | -       | -    | -    | -   |
 | Jeremy  | -    | -    | -   | -       | -    | -    | -   |
 | Kevin   | -    | -    | -   | -       | -    | -    | -   |
@@ -74,7 +74,7 @@
 | Adam    | Sean   | -   | -   | -   | -   | -   | -   |
 | Bob     | -   | -   | -   | -   | -   | -   | -   |
 | Sean    | -   | -   | -   | -   | -   | -   | -   |
-| David T | -   | -   | -   | -   | -   | -   | -   |
+| David T | Bob   | -   | -   | -   | -   | -   | -   |
 | David O | -   | -   | -   | -   | -   | -   | -   |
 | Jeremy  | -   | -   | -   | -   | -   | -   | -   |
 | Kevin   | -   | -   | -   | -   | -   | -   | -   |
