@@ -50,7 +50,7 @@
 |    5 |    Greg |   58.3 |
 |    6 |     Bob |   59.4 |
 |    7 |    Josh |   61.8 |
-|    8 |
+|    8 |  Jeremy |   60.3 |
 |    9 |
 |   10 |
 |   11 |
@@ -64,7 +64,6 @@
   - David T
   - Kevin
   - Sean
-  - Jeremy
   - Zach
 
 ## Blue Shell
