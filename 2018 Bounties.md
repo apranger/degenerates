@@ -2,15 +2,15 @@
 
 ## Two Week Bounties
 
-| Weeks | E/F | Bounty                    | Winner | Data |
-|-------|-----|---------------------------|--------|------|
-|   1-2 |   E | Pay Dirt                  |   Sean |   20 |
-|   3-4 |   F | Hue Jackson               |        |
-|   5-6 |   E | That'd Be Perfection      |        |
-|   7-8 |   F | What a Waste!             |        |
-|  9-10 |   E | He's Going The Distance   |        |
-| 11-12 |   F | Holy Shit, I Benched Them |        |
-| 13-14 |   E | It's A Broncos Super Bowl |        |
+| Weeks | E/F | Bounty                    | Winner | Stats     | Player  |
+|-------|-----|---------------------------|--------|-----------|---------|
+|   1-2 |   E | Pay Dirt                  |   Sean |    20 TDs |    Team |
+|   3-4 |   F | Hue Jackson               |        |           |    Team |
+|   5-6 |   E | That'd Be Perfection      |        |           |    Team |
+|   7-8 |   F | What a Waste!             |  Kevin | 32.8/76.9 | Mahomes |
+|  9-10 |   E | He's Going The Distance   |  *Sean |    72 yds |  Thomas |
+| 11-12 |   F | Holy Shit, I Benched Them |        |           |         |
+| 13-14 |   E | It's A Broncos Super Bowl |        |           |         |
 
 ### Bounty Goals
 
@@ -26,8 +26,8 @@
 
 | E/F | Bounty                    | Leader | Data                  | Week |
 |-----|---------------------------|--------|-----------------------|------|
-|   F | 2007 Patriots             |   Josh |     102.1             |    4 |
-|   E | 2001 Patriots             | Jeremy |       0.2             |    6 | 
+|   F | 2007 Patriots             |   Sean |     115.7             |    9 |
+|   E | 2001 Patriots             | Jeremy |       0.2             |    6 |
 |   F | Laces Out                 |   Sean | Crosby, 4 FG, 1XP     |    5 |
 |   E | Put Me In Coach           |   Adam | Barkley, 28.6         |    6 |
 |   F | Turnover Beethoven        |   Zach | Big Ben, 3 Int, 2 FML |    1 |
@@ -51,7 +51,7 @@
 |    6 |     Bob |   59.4 |
 |    7 |    Josh |   61.8 |
 |    8 |  Jeremy |   60.3 |
-|    9 |
+|    9 |   Kevin |   65.8 |
 |   10 |
 |   11 |
 |   12 |
@@ -62,7 +62,6 @@
 
   - David O
   - David T
-  - Kevin
   - Sean
   - Zach
 
@@ -75,7 +74,7 @@
 |    6 | David O |  125.5 |
 |    7 |    Greg |  122.1 |
 |    8 |    Josh |  146.0 |
-|    9 |
+|    9 |    Zach |  117.2 |
 |   10 |
 |   11 |
 |   12 |
@@ -88,4 +87,3 @@
   - Bob
   - Kevin
   - Jeremy
-  - Zach
