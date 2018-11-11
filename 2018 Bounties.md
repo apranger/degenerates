@@ -5,10 +5,10 @@
 | Weeks | E/F | Bounty                    | Winner | Stats     | Player  |
 |-------|-----|---------------------------|--------|-----------|---------|
 |   1-2 |   E | Pay Dirt                  |   Sean |    20 TDs |    Team |
-|   3-4 |   F | Hue Jackson               |        |           |    Team |
-|   5-6 |   E | That'd Be Perfection      |        |           |    Team |
+|   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%)         |    Team |
+|   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%)         |    Team |
 |   7-8 |   F | What a Waste!             |  Kevin | 32.8/76.9 | Mahomes |
-|  9-10 |   E | He's Going The Distance   |  *Sean |    72 yds |  Thomas |
+|  9-10 |   E | He's Going The Distance   |  *Adam |    75 yds |  Smith-Schuster |
 | 11-12 |   F | Holy Shit, I Benched Them |        |           |         |
 | 13-14 |   E | It's A Broncos Super Bowl |        |           |         |
 
