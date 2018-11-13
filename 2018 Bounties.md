@@ -2,15 +2,15 @@
 
 ## Two Week Bounties
 
-| Weeks | E/F | Bounty                    | Winner | Stats     | Player  |
-|-------|-----|---------------------------|--------|-----------|---------|
-|   1-2 |   E | Pay Dirt                  |   Sean |    20 TDs |    Team |
-|   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%)         |    Team |
-|   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%)         |    Team |
-|   7-8 |   F | What a Waste!             |  Kevin | 32.8/76.9 | Mahomes |
-|  9-10 |   E | He's Going The Distance   |  *Adam |    75 yds |  Smith-Schuster |
-| 11-12 |   F | Holy Shit, I Benched Them |        |           |         |
-| 13-14 |   E | It's A Broncos Super Bowl |        |           |         |
+| Weeks | E/F | Bounty                    | Winner | Stats                  | Player  |
+|-------|-----|---------------------------|--------|------------------------|---------|
+|   1-2 |   E | Pay Dirt                  |   Sean |                20 TDs  |    Team |
+|   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%) |    Team |
+|   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%) |    Team |
+|   7-8 |   F | What a Waste!             |  Kevin |              32.8/76.9 | Mahomes |
+|  9-10 |   E | He's Going The Distance   |  David |                 92 yds |   Chubb |
+| 11-12 |   F | Holy Shit, I Benched Them |        |                        |         |
+| 13-14 |   E | It's A Broncos Super Bowl |        |                        |         |
 
 ### Bounty Goals
 
@@ -24,14 +24,14 @@
 
 ## Year Long Bounties
 
-| E/F | Bounty                    | Leader | Data                  | Week |
-|-----|---------------------------|--------|-----------------------|------|
-|   F | 2007 Patriots             |   Sean |     115.7             |    9 |
-|   E | 2001 Patriots             | Jeremy |       0.2             |    6 |
-|   F | Laces Out                 |   Sean | Crosby, 4 FG, 1XP     |    5 |
-|   E | Put Me In Coach           |   Adam | Barkley, 28.6         |    6 |
-|   F | Turnover Beethoven        |   Zach | Big Ben, 3 Int, 2 FML |    1 |
-|   E | Touchdowns Abound         |    TBD |                     * |    * |
+| E/F | Bounty                    | Leader        | Data                  | Week |
+|-----|---------------------------|---------------|-----------------------|------|
+|   F | 2007 Patriots             |   Sean        |     115.7             |    9 |
+|   E | 2001 Patriots             | Jeremy / Zach |       0.2             |    6 / 10 |
+|   F | Laces Out                 |   Sean        | Crosby, 4 FG, 1XP     |    5 |
+|   E | Put Me In Coach           |   Adam        | Barkley, 28.6         |    6 |
+|   F | Turnover Beethoven        |   Zach        | Big Ben, 3 Int, 2 FML |    1 |
+|   E | Touchdowns Abound         |  David        | Team                  |   10 |
 
 ### Bounty Goals
 
@@ -52,15 +52,12 @@
 |    7 |    Josh |   61.8 |
 |    8 |  Jeremy |   60.3 |
 |    9 |   Kevin |   65.8 |
-|   10 |
+|   10 | David O |   51.1 |
 |   11 |
 |   12 |
-|   13 |
-|   14 |
 
 ### Remaining Contestants
 
-  - David O
   - David T
   - Sean
   - Zach
@@ -75,15 +72,12 @@
 |    7 |    Greg |  122.1 |
 |    8 |    Josh |  146.0 |
 |    9 |    Zach |  117.2 |
-|   10 |
+|   10 |    Adam |  123.3 |
 |   11 |
 |   12 |
-|   13 |
-|   14 |
 
 ### Remaining Contestants
 
-  - Adam
   - Bob
   - Kevin
   - Jeremy
