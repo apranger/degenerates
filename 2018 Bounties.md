@@ -35,18 +35,18 @@
 |    Josh |      2 |       WR, RB |
 |    Skye |      3 |    K, WR, RB |
 |    Sean |      3 | TE, RB, FLEX |
-|    Zach |      2 |       QB, WR |
+|   Jonny |      2 |       QB, WR |
 
 ## Year Long Bounties
 
-| E/F | Bounty                    | Leader     | Data                  | Week   |
-|-----|---------------------------|------------|-----------------------|--------|
-|   F | 2007 Patriots             |   Sean     |                 115.7 |      9 |
-|   E | 2001 Patriots             | Joe / Zach |                   0.2 | 6 / 10 |
-|   F | Laces Out                 |   Sean     | Crosby      4 FG, 1XP |      5 |
-|   E | Put Me In Coach           |   Adam     | Barkley          28.6 |      6 |
-|   F | Turnover Beethoven        |   Zach     | Big Ben  3 Int, 2 FML |      1 |
-|   E | Touchdowns Abound         |  David     | Team                  |     10 |
+| E/F | Bounty                    | Leader      | Data                  | Week   |
+|-----|---------------------------|-------------|-----------------------|--------|
+|   F | 2007 Patriots             |   Sean      |                 115.7 |      9 |
+|   E | 2001 Patriots             | Joe / Jonny |                   0.2 | 6 / 10 |
+|   F | Laces Out                 |   Sean      | Crosby      4 FG, 1XP |      5 |
+|   E | Put Me In Coach           |   Adam      | Barkley          28.6 |      6 |
+|   F | Turnover Beethoven        |  Jonny      | Big Ben  3 Int, 2 FML |      1 |
+|   E | Touchdowns Abound         |  David      | Team                  |     10 |
 
 ### Bounty Goals
 
@@ -74,7 +74,7 @@
 ### Remaining Contestants
 
   - David T
-  - Zach
+  - Jonny
 
 ## Blue Shell
 
@@ -85,7 +85,7 @@
 |    6 | David O |  125.5 |
 |    7 |    Greg |  122.1 |
 |    8 |    Josh |  146.0 |
-|    9 |    Zach |  117.2 |
+|    9 |   Jonny |  117.2 |
 |   10 |    Adam |  123.3 |
 |   11 |     Joe |   77.0 |
 |   12 |
