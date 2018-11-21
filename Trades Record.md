@@ -33,7 +33,7 @@
 
 ### 2018 Trades for Draft Picks
   - Bob trades Antonio Brown to David T for 2019 1st and 2020 1st.
-  - .
+  - Bob trades Drew Brees and his 2019 4th to Sean for Tarik Cohen and Greg's 2019 2nd.
 
 ### 2018 Draft Picks
 
@@ -56,7 +56,7 @@
 | Owner   | 1st  | 2nd  | 3rd | 4th     | 5th  | 6th  | 7th |
 |---------|------|------|-----|---------|------|------|-----|
 | Adam    | Sean | Sean | -   | -       | Sean | -    | -   |
-| Bob     | -    | Sean | -   | -       | -    | Adam | -   |
+| Bob     | -    | Sean | -   | Sean    | -    | Adam | -   |
 | Sean    | -    | -    | -   | -       | -    | -    | -   |
 | David T | Bob  | -    | -   | -       | -    | -    | -   |
 | David O | -    | -    | -   | -       | -    | -    | -   |
@@ -64,7 +64,7 @@
 | Skye    | -    | -    | -   | -       | -    | -    | -   |
 | Josh    | -    | -    | -   | David T | Bob  | -    | -   |
 | Jonny   | -    | -    | -   | -       | -    | -    | -   |
-| Greg    | -    | Sean | -   | -       | -    | -    | -   |
+| Greg    | -    |  Bob | -   | -       | -    | -    | -   |
 
 
 ### 2020 Draft Picks
