@@ -4,7 +4,7 @@
 
 | Weeks | E/F | Bounty                    | Winner | Stats                  | Player  |
 |-------|-----|---------------------------|--------|------------------------|---------|
-|   1-2 |   E | Pay Dirt                  |   Sean |                20 TDs  |    Team |
+|   1-2 |   E | Pay Dirt                  |   Sean |                12 TDs  |    Team |
 |   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%) |    Team |
 |   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%) |    Team |
 |   7-8 |   F | What a Waste!             |   Skye |              32.8/76.9 | Mahomes |
