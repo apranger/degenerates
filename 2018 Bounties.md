@@ -22,6 +22,21 @@
   - Holy Shit, I Benched Them: Highest number of "should have started him" players
   - It's A Broncos Super Bowl: Biggest margin of victory (raw points)
 
+### Holy Shit, I Benched Them - Week 11
+
+| Team    |  Count | Positions    |
+|---------|--------|--------------|
+|    Adam |      1 |           QB |
+|     Bob |      3 | WR, WR, FLEX |
+| David O |      3 | WR, WR, FLEX |
+| David T |      1 |         FLEX |
+|    Greg |      2 |     WR, FLEX |
+|  Jeremy |      3 |   QB, TE, WR |
+|    Josh |      2 |       WR, RB |
+|   Kevin |      3 |    K, WR, RB |
+|    Sean |      3 | TE, RB, FLEX |
+|    Zach |      2 |       QB, WR |
+
 ## Year Long Bounties
 
 | E/F | Bounty                    | Leader        | Data                  | Week |
@@ -53,13 +68,12 @@
 |    8 |  Jeremy |   60.3 |
 |    9 |   Kevin |   65.8 |
 |   10 | David O |   51.1 |
-|   11 |
+|   11 |    Sean |   97.1 |
 |   12 |
 
 ### Remaining Contestants
 
   - David T
-  - Sean
   - Zach
 
 ## Blue Shell
@@ -73,11 +87,10 @@
 |    8 |    Josh |  146.0 |
 |    9 |    Zach |  117.2 |
 |   10 |    Adam |  123.3 |
-|   11 |
+|   11 |  Jeremy |   77.0 |
 |   12 |
 
 ### Remaining Contestants
 
   - Bob
   - Kevin
-  - Jeremy
