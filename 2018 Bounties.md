@@ -31,7 +31,7 @@
 | David O |      3 | WR, WR, FLEX |
 | David T |      1 |         FLEX |
 |    Greg |      2 |     WR, FLEX |
-|  Jeremy |      3 |   QB, TE, WR |
+|     Joe |      3 |   QB, TE, WR |
 |    Josh |      2 |       WR, RB |
 |   Kevin |      3 |    K, WR, RB |
 |    Sean |      3 | TE, RB, FLEX |
@@ -39,14 +39,14 @@
 
 ## Year Long Bounties
 
-| E/F | Bounty                    | Leader        | Data                  | Week |
-|-----|---------------------------|---------------|-----------------------|------|
-|   F | 2007 Patriots             |   Sean        |     115.7             |    9 |
-|   E | 2001 Patriots             | Jeremy / Zach |       0.2             |    6 / 10 |
-|   F | Laces Out                 |   Sean        | Crosby, 4 FG, 1XP     |    5 |
-|   E | Put Me In Coach           |   Adam        | Barkley, 28.6         |    6 |
-|   F | Turnover Beethoven        |   Zach        | Big Ben, 3 Int, 2 FML |    1 |
-|   E | Touchdowns Abound         |  David        | Team                  |   10 |
+| E/F | Bounty                    | Leader     | Data                  | Week   |
+|-----|---------------------------|------------|-----------------------|--------|
+|   F | 2007 Patriots             |   Sean     |                 115.7 |      9 |
+|   E | 2001 Patriots             | Joe / Zach |                   0.2 | 6 / 10 |
+|   F | Laces Out                 |   Sean     | Crosby      4 FG, 1XP |      5 |
+|   E | Put Me In Coach           |   Adam     | Barkley          28.6 |      6 |
+|   F | Turnover Beethoven        |   Zach     | Big Ben  3 Int, 2 FML |      1 |
+|   E | Touchdowns Abound         |  David     | Team                  |     10 |
 
 ### Bounty Goals
 
@@ -65,7 +65,7 @@
 |    5 |    Greg |   58.3 |
 |    6 |     Bob |   59.4 |
 |    7 |    Josh |   61.8 |
-|    8 |  Jeremy |   60.3 |
+|    8 |     Joe |   60.3 |
 |    9 |   Kevin |   65.8 |
 |   10 | David O |   51.1 |
 |   11 |    Sean |   97.1 |
@@ -87,7 +87,7 @@
 |    8 |    Josh |  146.0 |
 |    9 |    Zach |  117.2 |
 |   10 |    Adam |  123.3 |
-|   11 |  Jeremy |   77.0 |
+|   11 |     Joe |   77.0 |
 |   12 |
 
 ### Remaining Contestants
