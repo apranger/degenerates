@@ -7,7 +7,7 @@
 |   1-2 |   E | Pay Dirt                  |   Sean |                20 TDs  |    Team |
 |   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%) |    Team |
 |   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%) |    Team |
-|   7-8 |   F | What a Waste!             |  Kevin |              32.8/76.9 | Mahomes |
+|   7-8 |   F | What a Waste!             |   Skye |              32.8/76.9 | Mahomes |
 |  9-10 |   E | He's Going The Distance   |  David |                 92 yds |   Chubb |
 | 11-12 |   F | Holy Shit, I Benched Them |        |                        |         |
 | 13-14 |   E | It's A Broncos Super Bowl |        |                        |         |
@@ -33,7 +33,7 @@
 |    Greg |      2 |     WR, FLEX |
 |     Joe |      3 |   QB, TE, WR |
 |    Josh |      2 |       WR, RB |
-|   Kevin |      3 |    K, WR, RB |
+|    Skye |      3 |    K, WR, RB |
 |    Sean |      3 | TE, RB, FLEX |
 |    Zach |      2 |       QB, WR |
 
@@ -66,7 +66,7 @@
 |    6 |     Bob |   59.4 |
 |    7 |    Josh |   61.8 |
 |    8 |     Joe |   60.3 |
-|    9 |   Kevin |   65.8 |
+|    9 |    Skye |   65.8 |
 |   10 | David O |   51.1 |
 |   11 |    Sean |   97.1 |
 |   12 |
@@ -93,4 +93,4 @@
 ### Remaining Contestants
 
   - Bob
-  - Kevin
+  - Skye
