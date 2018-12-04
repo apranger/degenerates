@@ -44,7 +44,7 @@
 |   F | 2007 Patriots             |   Sean      |                 115.7 |      9 |
 |   E | 2001 Patriots             | Joe / Jonny |                   0.2 | 6 / 10 |
 |   F | Laces Out                 |   Sean      | Crosby      4 FG, 1XP |      5 |
-|   E | Put Me In Coach           |   Adam      | Barkley          28.6 |      6 |
+|   E | Put Me In Coach           |   Adam      | Barkley          33.2 |     11 |
 |   F | Turnover Beethoven        |  Jonny      | Big Ben  3 Int, 2 FML |      1 |
 |   E | Touchdowns Abound         |  David      | Team                  |     10 |
 
@@ -69,11 +69,10 @@
 |    9 |    Skye |   65.8 |
 |   10 | David O |   51.1 |
 |   11 |    Sean |   97.1 |
-|   12 |
+|   12 | David T |  108.4 |
 
 ### Remaining Contestants
 
-  - David T
   - Jonny
 
 ## Blue Shell
@@ -88,9 +87,8 @@
 |    9 |   Jonny |  117.2 |
 |   10 |    Adam |  123.3 |
 |   11 |     Joe |   77.0 |
-|   12 |
+|   12 |    Skye |  113.5 |
 
 ### Remaining Contestants
 
   - Bob
-  - Skye
