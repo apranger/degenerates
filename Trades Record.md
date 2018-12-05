@@ -37,6 +37,7 @@
   - Bob trades his 2019 3rd to Sean for Le'Veon Bell.
   - Joe trade Leonard Fournette and his 2019 7th to Josh for Marlon Mack, Jordan Wilkins,
     his 2019 1st, 2020 1st and 2020 2nd.
+  - Joe trades Matt Ryan to Bob for Josh's 2019 5th.
 
 ### 2018 Draft Picks
 
@@ -65,7 +66,7 @@
 | Greg    | -       | Bob     | -       | -       | -       | -       | -       |
 | Joe     | -       | -       | -       | -       | -       | -       | Josh    |
 | Jonny   | -       | -       | -       | -       | -       | -       | -       |
-| Josh    | Joe     | -       | -       | David T | Bob     | -       | -       |
+| Josh    | Joe     | -       | -       | David T | Joe     | -       | -       |
 | Sean    | -       | -       | -       | -       | -       | Adam    | -       |
 | Skye    | -       | -       | -       | -       | -       | -       | -       |
 
