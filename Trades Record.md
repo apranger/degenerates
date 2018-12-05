@@ -35,6 +35,8 @@
   - Bob trades Antonio Brown to David T for 2019 1st and 2020 1st.
   - Bob trades Drew Brees and his 2019 4th to Sean for Tarik Cohen and Greg's 2019 2nd.
   - Bob trades his 2019 3rd to Sean for Le'Veon Bell.
+  - Joe trade Leonard Fournette and his 2019 7th to Josh for Marlon Mack, Jordan Wilkins,
+    his 2019 1st, 2020 1st and 2020 2nd.
 
 ### 2018 Draft Picks
 
@@ -61,9 +63,9 @@
 | David T | Bob     | -       | -       | -       | -       | -       | -       |
 | David O | -       | -       | -       | -       | -       | -       | -       |
 | Greg    | -       | Bob     | -       | -       | -       | -       | -       |
-| Joe     | -       | -       | -       | -       | -       | -       | -       |
+| Joe     | -       | -       | -       | -       | -       | -       | Josh    |
 | Jonny   | -       | -       | -       | -       | -       | -       | -       |
-| Josh    | -       | -       | -       | David T | Bob     | -       | -       |
+| Josh    | Joe     | -       | -       | David T | Bob     | -       | -       |
 | Sean    | -       | -       | -       | -       | -       | Adam    | -       |
 | Skye    | -       | -       | -       | -       | -       | -       | -       |
 
@@ -78,6 +80,6 @@
 | Greg    | -       | Sean    | -       | -       | -       | -       | -       |
 | Joe     | -       | -       | -       | -       | -       | -       | -       |
 | Jonny   | -       | -       | -       | -       | -       | -       | -       |
-| Josh    | -       | -       | -       | -       | -       | -       | -       |
+| Josh    | Joe     | Joe     | -       | -       | -       | -       | -       |
 | Sean    | -       | -       | -       | -       | -       | -       | -       |
 | Skye    | -       | -       | -       | -       | -       | -       | -       |
