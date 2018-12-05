@@ -38,48 +38,46 @@
 
 ### 2018 Draft Picks
 
-| Owner   | 1st     | 2nd           | 3rd  | 4th     | 5th  | 6th  | 7th  |
-|---------|:-------:|:-------------:|:----:|:-------:|:----:|:----:|:----:|
-| Adam    | Greg    | -             | Greg | -       | Sean | Sean | -    |
-| Bob     | -       | -             | Greg | -       | Sean | -    | -    |
-| Sean    | Greg    | Bob           | Bob  | -       | -    | -    | -    |
-| David T | -       | Josh          | -    | -       | Sean | -    | Sean |
-| David O | -       | -             | -    | -       | -    | -    | -    |
-| Jeremy  | -       | -             | -    | -       | -    | -    | -    |
-| Kevin   | -       | Greg          | -    | -       | -    | -    | -    |
-| Josh    | Greg    | David T       | -    | David T | Bob  | -    | -    |
-| Zach    | -       | Josh          | Josh | -       | -    | -    | -    |
-| Greg    | Adam    | -             | -    | -       | -    | -    | -    |
+| Owner   | 1st     | 2nd     | 3rd     | 4th     | 5th     | 6th     | 7th     |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| Adam    | Greg    | -       | Greg    | -       | Sean    | Sean    | -       |
+| Bob     | -       | -       | Greg    | -       | Sean    | -       | -       |
+| Sean    | Greg    | Bob     | Bob     | -       | -       | -       | -       |
+| David T | -       | Josh    | -       | -       | Sean    | -       | Sean    |
+| David O | -       | -       | -       | -       | -       | -       | -       |
+| Jeremy  | -       | -       | -       | -       | -       | -       | -       |
+| Kevin   | -       | Greg    | -       | -       | -       | -       | -       |
+| Josh    | Greg    | David T | -       | David T | Bob     | -       | -       |
+| Zach    | -       | Josh    | Josh    | -       | -       | -       | -       |
+| Greg    | Adam    | -       | -       | -       | -       | -       | -       |
 
 
 ### 2019 Draft Picks
 
-| Owner   | 1st  | 2nd  | 3rd  | 4th     | 5th  | 6th  | 7th |
-|---------|------|------|------|---------|------|------|-----|
-| Adam    | Sean | Sean | -    | -       | Sean | -    | -   |
-| Bob     | -    | Sean | Sean | Sean    | -    | -    | -   |
-| Sean    | -    | -    | -    | -       | -    | Adam | -   |
-| David T | Bob  | -    | -    | -       | -    | -    | -   |
-| David O | -    | -    | -    | -       | -    | -    | -   |
-| Joe     | -    | -    | -    | -       | -    | -    | -   |
-| Skye    | -    | -    | -    | -       | -    | -    | -   |
-| Josh    | -    | -    | -    | David T | Bob  | -    | -   |
-| Jonny   | -    | -    | -    | -       | -    | -    | -   |
-| Greg    | -    | Bob  | -    | -       | -    | -    | -   |
-
+| Owner   | 1st     | 2nd     | 3rd     | 4th     | 5th     | 6th     | 7th     |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| Adam    | Sean    | Sean    | -       | -       | Sean    | -       | -       |
+| Bob     | -       | Sean    | Sean    | Sean    | -       | -       | -       |
+| David T | Bob     | -       | -       | -       | -       | -       | -       |
+| David O | -       | -       | -       | -       | -       | -       | -       |
+| Greg    | -       | Bob     | -       | -       | -       | -       | -       |
+| Joe     | -       | -       | -       | -       | -       | -       | -       |
+| Jonny   | -       | -       | -       | -       | -       | -       | -       |
+| Josh    | -       | -       | -       | David T | Bob     | -       | -       |
+| Sean    | -       | -       | -       | -       | -       | Adam    | -       |
+| Skye    | -       | -       | -       | -       | -       | -       | -       |
 
 ### 2020 Draft Picks
 
-| Owner   | 1st  | 2nd  | 3rd | 4th | 5th | 6th | 7th |
-|---------|------|------|-----|-----|-----|-----|-----|
-| Adam    | Sean | -    | -   | -   | -   | -   | -   |
-| Bob     | -    | -    | -   | -   | -   | -   | -   |
-| Sean    | -    | -    | -   | -   | -   | -   | -   |
-| David T | Bob  | -    | -   | -   | -   | -   | -   |
-| David O | -    | -    | -   | -   | -   | -   | -   |
-| Joe     | -    | -    | -   | -   | -   | -   | -   |
-| Skye    | -    | -    | -   | -   | -   | -   | -   |
-| Josh    | -    | -    | -   | -   | -   | -   | -   |
-| Jonny   | -    | -    | -   | -   | -   | -   | -   |
-| Greg    | -    | Sean | -   | -   | -   | -   | -   |
-
+| Owner   | 1st     | 2nd     | 3rd     | 4th     | 5th     | 6th     | 7th     |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| Adam    | Sean    | -       | -       | -       | -       | -       | -       |
+| Bob     | -       | -       | -       | -       | -       | -       | -       |
+| David T | Bob     | -       | -       | -       | -       | -       | -       |
+| David O | -       | -       | -       | -       | -       | -       | -       |
+| Greg    | -       | Sean    | -       | -       | -       | -       | -       |
+| Joe     | -       | -       | -       | -       | -       | -       | -       |
+| Jonny   | -       | -       | -       | -       | -       | -       | -       |
+| Josh    | -       | -       | -       | -       | -       | -       | -       |
+| Sean    | -       | -       | -       | -       | -       | -       | -       |
+| Skye    | -       | -       | -       | -       | -       | -       | -       |
