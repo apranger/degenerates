@@ -2,15 +2,15 @@
 
 ## Two Week Bounties
 
-| Weeks | E/F | Bounty                    | Winner | Stats                  | Player  |
+| Weeks | E/F | Bounty                    | Winner | Stats                  |   Data  |
 |-------|-----|---------------------------|--------|------------------------|---------|
-|   1-2 |   E | Pay Dirt                  |   Sean |                12 TDs  |    Team |
-|   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%) |    Team |
-|   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%) |    Team |
+|   1-2 |   E | Pay Dirt                  |   Sean |                12 TDs  |  Week 2 |
+|   3-4 |   F | Hue Jackson               |   Sean |  90.14/162.46 (55.48%) |  Week 4 |
+|   5-6 |   E | That'd Be Perfection      |   Adam |  106.98/108.38 (98.7%) |  Week 6 |
 |   7-8 |   F | What a Waste!             |   Skye |              32.8/76.9 | Mahomes |
 |  9-10 |   E | He's Going The Distance   |  David |                 92 yds |   Chubb |
-| 11-12 |   F | Holy Shit, I Benched Them |        |                        |         |
-| 13-14 |   E | It's A Broncos Super Bowl |        |                        |         |
+| 11-12 |   F | Holy Shit, I Benched Them |   Bob  |   4 (QB, RB, WR, FLEX) | Week 12 |
+| 13-14 |   E | It's A Broncos Super Bowl |  Jonny |      65.3 (113.3 - 48) | Week 13 |
 
 ### Bounty Goals
 
@@ -22,21 +22,6 @@
   - Holy Shit, I Benched Them: Highest number of "should have started him" players
   - It's A Broncos Super Bowl: Biggest margin of victory (raw points)
 
-### Holy Shit, I Benched Them - Week 11
-
-| Team    |  Count | Positions    |
-|---------|--------|--------------|
-|    Adam |      1 |           QB |
-|     Bob |      3 | WR, WR, FLEX |
-| David O |      3 | WR, WR, FLEX |
-| David T |      1 |         FLEX |
-|    Greg |      2 |     WR, FLEX |
-|     Joe |      3 |   QB, TE, WR |
-|    Josh |      2 |       WR, RB |
-|    Skye |      3 |    K, WR, RB |
-|    Sean |      3 | TE, RB, FLEX |
-|   Jonny |      2 |       QB, WR |
-
 ## Year Long Bounties
 
 | E/F | Bounty                    | Leader      | Data                  | Week   |
@@ -47,6 +32,8 @@
 |   E | Put Me In Coach           |   Adam      | Barkley          33.2 |     11 |
 |   F | Turnover Beethoven        |  Jonny      | Big Ben  3 Int, 2 FML |      1 |
 |   E | Touchdowns Abound         |  David      | Team                  |     10 |
+|   E | Blue Shell                |    Bob      | Team                  |    N/A |
+|   F | Survivor                  |  Jonny      | Team                  |    N/A |
 
 ### Bounty Goals
 
