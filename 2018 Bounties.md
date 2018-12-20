@@ -27,7 +27,7 @@
 | E/F | Bounty                    | Leader      | Data                  | Week   |
 |-----|---------------------------|-------------|-----------------------|--------|
 |   F | 2007 Patriots             |   Sean      |                 115.7 |      9 |
-|   E | 2001 Patriots             | Joe / Jonny |                   0.2 | 6 / 10 |
+|   E | 2001 Patriots             |    Joe      |                  0.18 |      6 |
 |   F | Laces Out                 |   Sean      | Crosby      4 FG, 1XP |      5 |
 |   E | Put Me In Coach           |   Adam      | Barkley          33.2 |     11 |
 |   F | Turnover Beethoven        |  Jonny      | Big Ben  3 Int, 2 FML |      1 |
