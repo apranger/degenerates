@@ -24,6 +24,7 @@
   9. Sean C.
   10. Jonny H.
 
+Please consult the [Trades Record for 2019](https://github.com/apranger/degenerates/blob/master/Trades%20Record.md#2019-draft-picks) to see who owns which picks.  The tables below will be filled out as we get closer to the draft.
   
 #### First Round
   1. ...
