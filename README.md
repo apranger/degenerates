@@ -68,7 +68,7 @@ A FLEX position can be filled with a RB, WR or TE.
 
 | Position | # Slots |  Max     |
 | -------- | -------:|---------:|
-| QB       | 1       |     4    |
+| QB       | 1       |        4 starters / 5 total |
 | RB       | 2       | no limit |
 | WR       | 2       | no limit |
 | TE       | 1       |        5 |
@@ -78,6 +78,11 @@ A FLEX position can be filled with a RB, WR or TE.
 | BENCH    | 16      |      n/a |
 | IR       | 2       |      n/a |
 
+### QB Limit
+  - Limit of *4* starting QBs (listed as 1st on depth chart) enforced on roster lock date.
+  - No limit on starting QBs during rest of season.
+  - *QB Limit increased to 4 starters/5 max for 2019 season*
+  
 ### IR Slots
   - "Standard ESPN rules" apply - Assignment to IR requires O (out) or IR (Injured Reserve) designation
   - IR Slot must be empty on soft cap day, ergo, it may not be used to retain players year-over-year
@@ -214,10 +219,10 @@ A FLEX position can be filled with a RB, WR or TE.
 
 ### Free Agent Draft
   - Auction draft order will be inverse of draft order (i.e., aligned with last year's finish)
-  - Auction draft encompassing all players not on a team roster
-  - Team budget is $300 less their existing player salaries
+  - Auction draft encompasses all players not on a team roster
+  - Team budget is $300 less their existing player salaries and penalties (eg, drops after cap deadline)
   - Team must be under the $300 salary cap prior to the free agent draft
-  - Auction budget is not transferable and may not be used as a consideration in any deal
+  - Auction budget is not transferable and may not be used as a consideration in any trade
 
 ### Free Agent Draft - RFA
   - First two rounds of Free Agent Draft will be scripted to disposition RFAs
