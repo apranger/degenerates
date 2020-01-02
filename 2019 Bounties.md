@@ -9,7 +9,7 @@
 | 5\-6    | E     | That'd Be Perfection      | Sean    | 99\.5% \(149\.82 / 150\.52\) | Week 5              |
 | 7\-8    | F     | What a Waste\!            | Greg    | 23\.58 / 56\.58              | Week 8 \(Stafford\) |
 | 9\-10   | E     | He's Going The Distance   | Greg    | 91 yards                     | Week 9 \(Williams\) |
-| 11\-12  | F     | Holy Shit, I Benched Them | Josh    | "4 \(QB, RB, WR, FLEX\) <br> Note: Three way tie broken Hue Jackson style\." | Week 12 |
+| 11\-12  | F     | Holy Shit, I Benched Them | Josh    | 4 \(QB, RB, WR, FLEX\) <br> Note: 3-way tie broken Hue Jackson style\. | Week 12 |
 | 13\-14  | E     | It's A Broncos Super Bowl | David O | 37\.26 \(113\.98\-76\.72\)   | Week 14             |
 
 
