@@ -2,16 +2,16 @@
 
 ## Two Week Bounties
 
-| Weeks                                                   | E/F     | Bounty                    | Winner  | Stats                        | Data                |
-|---------------------------------------------------------|---------|---------------------------|---------|------------------------------|---------------------|
-| 1\-2                                                    | E       | Pay Dirt                  | Skye    | 10 TDs                       | Week 1              |
-| 3\-4                                                    | F       | Hue Jackson               | Adam    | 58% \(70\.46 / 121\.76\)     | Week 4              |
-| 5\-6                                                    | E       | That'd Be Perfection      | Sean    | 99\.5% \(149\.82 / 150\.52\) | Week 5              |
-| 7\-8                                                    | F       | What a Waste\!            | Greg    | 23\.58 / 56\.58              | Week 8 \(Stafford\) |
-| 9\-10                                                   | E       | He's Going The Distance   | Greg    | 91 yards                     | Week 9 \(Williams\) |
-| 11\-12                                                  | F       | Holy Shit, I Benched Them | Josh    | "4 \(QB, RB, WR, FLEX\)      |
-| Note: Three way tie at 4, broken by most lost points\." | Week 12 |
-| 13\-14                                                  | E       | It's A Broncos Super Bowl | David O | 37\.26 \(113\.98\-76\.72\)   | Week 14             |
+| Weeks   | E/F   | Bounty                    | Winner  | Stats                        | Data                |
+|---------|-------|---------------------------|---------|------------------------------|---------------------|
+| 1\-2    | E     | Pay Dirt                  | Skye    | 10 TDs                       | Week 1              |
+| 3\-4    | F     | Hue Jackson               | Adam    | 58% \(70\.46 / 121\.76\)     | Week 4              |
+| 5\-6    | E     | That'd Be Perfection      | Sean    | 99\.5% \(149\.82 / 150\.52\) | Week 5              |
+| 7\-8    | F     | What a Waste\!            | Greg    | 23\.58 / 56\.58              | Week 8 \(Stafford\) |
+| 9\-10   | E     | He's Going The Distance   | Greg    | 91 yards                     | Week 9 \(Williams\) |
+| 11\-12  | F     | Holy Shit, I Benched Them | Josh    | "4 \(QB, RB, WR, FLEX\) \\ Note: Three way tie at 4, broken by most lost points\." | Week 12 |
+| 13\-14  | E     | It's A Broncos Super Bowl | David O | 37\.26 \(113\.98\-76\.72\)   | Week 14             |
+
 
 ### Bounty Goals
 
