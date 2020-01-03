@@ -32,7 +32,7 @@
 | F   | Laces Out          | Jonny   | Matt Gay \- 2/5 XPs             | Week 12 |
 | E   | Put Me In Coach    | Joe     | Kyler Murray \- 28\.80          | Week 6  |
 | F   | Turnover Beethoven | Josh    | Jameis Winston \- 5 INT / 1 FML | Week 6  |
-| E   | Touchdowns Abound  | David O | 13 TDs                          | Week 5  |
+| E   | Touchdowns Abound  |         | *unclaimed*                     |         |
 | E   | Blue Shell         | David O | N/A                             | N/A     |
 | F   | Survivor           | Skye    | N/A                             | N/A     |
 
@@ -44,7 +44,7 @@
   - Laces Out: Most missed field goals + extra points in a single game.  1st tiebreak: most missed XP.  2nd tiebreak: shortest miss.
   - Put Me In Coach: Best score by a rookie (must be started)
   - Turnover Beethoven: First starter with 5 turnovers in 1 game
-  - Touchdowns Abound: First team with every starter (non K) scoring a TD (passing, rushing or recieving).  If unclaimed - Most Total TDs
+  - Touchdowns Abound: First team with every starter (non K) scoring a TD (passing, rushing or recieving).
 
 ## Survivor
 
