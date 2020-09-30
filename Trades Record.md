@@ -1,5 +1,10 @@
 # Trades Record 
 
+### Contingent Draft Pick Record
+  - Josh trades Jared Goff to David T in exchange for Conditional 2021 2nd Round pick.  If David T finishes 7th or better, it is a 2nd round pick.  8th or worse, becomes 3rd round pick.
+
+#################################
+
 ### 2016 Trades for Draft Picks
   - Adam and Sean exchange 1st round picks
   - Adam trades Sean's 1st round pick to Jeremy
