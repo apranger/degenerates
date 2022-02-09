@@ -33,8 +33,8 @@
 | E   | Put Me In Coach    | Sean    | Jamarr Chase 26 pts     | Week 7  |                                                                                                 |
 | F   | Turnover Beethoven |         | unclaimed               |         | Honorable mention to Justin Fields, only player to hit the 5 TO threshold but on Greg's bench   |
 | E   | Touchdowns Abound  | Josh    | 7/8 starters            | Week&nbsp;14 |                                                                                                 |
-| F   | Blue Shell         | Jonny   | N/A                     | N/A     |                                                                                                 |
-| E   | Survivor           | Greg    | N/A                     | N/A     |                                                                                                 |
+| F   | Blue Shell         | Skye   | N/A                     | N/A     |                                                                                                 |
+| E   | Survivor           | David T    | N/A                     | N/A     |                                                                                                 |
 
 
 ### Bounty Goals
