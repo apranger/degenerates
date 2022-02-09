@@ -29,7 +29,6 @@
 |-----|--------------------|---------|-------------------------|---------|-------------------------------------------------------------------------------------------------|
 | F   | 2007 Patriots      | David T | 123.46                  | Week 5  |                                                                                                 |
 | E   | 2001 Patriots      | David&nbsp;O | 0.56                    | Week 8  |                                                                                                 |
-| F   | Laces Out          |         | unclaimed (no kickers!) |         |                                                                                                 |
 | E   | Put Me In Coach    | Sean    | Jamarr Chase 26 pts     | Week 7  |                                                                                                 |
 | F   | Turnover Beethoven |         | unclaimed               |         | Honorable mention to Justin Fields, only player to hit the 5 TO threshold but on Greg's bench   |
 | E   | Touchdowns Abound  | Josh    | 7/8 starters            | Week&nbsp;14 |                                                                                                 |
