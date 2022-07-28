@@ -234,6 +234,7 @@ A FLEX position can be filled with a RB, WR or TE.
     - Owners may opt to pass during nomination even if they have players designated for RFA
     - Designated RFAs that were not nominated are placed in the FA draft pool
     - Player's owner opting to retain must have enough salary cap room to do so
+    - RFA nomination order follows auction draft order (i.e., aligned with last year's finish)
 
 ### Logistics
   - Rookie draft will be completed offline, e.g. via email / group chat
