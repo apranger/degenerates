@@ -162,7 +162,7 @@ A FLEX position can be filled with a RB, WR or TE.
     - Fine is 10% of the player's salary after their raise is applied, per day after the soft deadline
     - Fine is rounded up to the nearest dollar, minimum fine is $1
   - Roster changes are not allowed between the hard deadline and the free agent draft
-  - Players acquired in the rookie draft cannot be dropped prior to the completion of the free agent draft
+  - Players acquired in the rookie draft rounds 1-4 cannot be dropped prior to the completion of the free agent draft.  Players acquired in rounds 5-7 may be dropped with a penalty equal to their rookie salary (currently $1 ea.)
 
 # Draft
 
@@ -174,7 +174,7 @@ A FLEX position can be filled with a RB, WR or TE.
 ### Rookie Draft
   - Fixed order, non-snake, non-auction
   - Order determined by previous year's results using NFL system
-    - Teams that miss playoffs are seeded 1 to 6 based on the reverse of their regular season records (worst to first)
+    - Teams that miss playoffs are seeded 1 to 6 based on the reverse of their regular season "max points possible" (i.e., total of each regular season game's best possible lineup)
     - Teams lose in round 1 of the playoffs are seeded at 7 and 8 based on the reverse of their regular season record (worst to first)
     - The team that loses the Super bowl is seeded at pick 9
     - The Super Bowl winner is seeded at pick 10
