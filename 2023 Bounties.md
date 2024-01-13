@@ -30,8 +30,8 @@
 | F   | 2007 Patriots      | Joe     | 114.56                  | Week 4  |          |
 | E   | 2001 Patriots      | Adam    | 2.72                    | Week 15 |          |
 | E   | Put Me In Coach    | Adam    | Jahmyr Gibbs 24.9       | Week 8  |          |
-| F   | Turnover Beethoven | *none*  | *No qualifying players* |  |          |
-| E   | Touchdowns Abound  |         | 7/8 starters            | Week 13 |          |
+| F   | Turnover Beethoven | *none*  | *No qualifying players* |         |          |
+| E   | Touchdowns Abound  | JOe     | 7/8 starters            | Week 11 |          |
 | F   | Blue Shell         | Jonny   | N/A                     | N/A     |          |
 | E   | Survivor           | David   | N/A                     | N/A     |          |
 
