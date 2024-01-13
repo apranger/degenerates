@@ -29,7 +29,6 @@
 |-----|--------------------|---------|-------------------------|---------|----------|
 | F   | 2007 Patriots      | Joe     | 114.56                  | Week 4  |          |
 | E   | 2001 Patriots      | Adam    | 2.72                    | Week 15 |          |
-| F   | TBD                |         | unclaimed (no kickers!) |         |          |
 | E   | Put Me In Coach    | Adam    | Jahmyr Gibbs 24.9       | Week 8  |          |
 | F   | Turnover Beethoven | *none*  | *No qualifying players* |  |          |
 | E   | Touchdowns Abound  |         | 7/8 starters            | Week 13 |          |
@@ -40,7 +39,6 @@
 
   - 2007 Patriots: Most points scored and still lost
   - 2001 Patriots: Smallest margin of victory
-  - Laces Out: Most missed field goals + extra points in a single game.  1st tiebreak: most missed XP.  2nd tiebreak: shortest miss.
   - Put Me In Coach: Best score by a rookie (must be started)
   - Turnover Beethoven: First starter with 5 turnovers in 1 game
   - Touchdowns Abound: First team with at least 7/8 starter scoring a TD (passing, rushing or recieving).
