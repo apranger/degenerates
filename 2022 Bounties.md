@@ -1,4 +1,4 @@
-# 2021 Degenerates Dynasty League Bounties
+# 2022 Degenerates Dynasty League Bounties
 
 ## Two Week Bounties
 
