@@ -4,9 +4,9 @@
 
 | Weeks | E/F | Bounty                    | Winner  | Stats                            | Week    | Comments |
 |-------|-----|---------------------------|---------|----------------------------------|---------|----------|
-| 1-2   | E   | Pay Dirt                  | Adam    | 10 total TDs                     | Week 1  |          |
-| 3-4   | F   | Hue Jackson               | David O | 50% (53.76 / 106.46)             | Week 3  |          |
-| 5-6   | E   | That'd Be Perfection      | Bob     | 100.0% (102.66 / 102.66)         | Week 6  |          |
+| 1-2   | E   | Pay Dirt                  | Andrew  | 8 total TDs                      | Week 1  |          |
+| 3-4   | F   | Hue Jackson               | Jonny   | 54.9% (73.72 / 134.22)           | Week 3  |          |
+| 5-6   | E   | That'd Be Perfection      | Skye    | 90.2% (111.62 / 123.78)          | Week 6  |          |
 | 7-8   | F   | What a Waste!             | Jonnny  | 31% (19.3 / 61.98), Eno Benjamin | Week 7  |          |
 | 9-10  | E   | He's Going The Distance   | Joe     | 81 yards (Dalvin Cook)           | Week 10 |          |
 | 11-12 | F   | Holy Shit, I Benched Them | Jonny   | 5 (RB, RB, WR, WR, TE)           | Week 12 |          |
@@ -27,8 +27,8 @@
 
 | E/F | Bounty             | Leader  | Data                    | Week    | Comments |
 |-----|--------------------|---------|-------------------------|---------|----------|
-| F   | 2007 Patriots      | Joe     | 121.06                  | Week 5  |          |
-| E   | 2001 Patriots      | Greg    | 0.22                    | Week 9  |          |
+| F   | 2007 Patriots      | Joe     | 114.56                  | Week 4  |          |
+| E   | 2001 Patriots      | Adam    | 2.72                    | Week 15 |          |
 | F   | TBD                |         | unclaimed (no kickers!) |         |          |
 | E   | Put Me In Coach    | Bob     | Ken Walker III 28.7     | Week 7  |          |
 | F   | Turnover Beethoven | Sean    | Joe Burrow 4 int 1 fml  | Week 14 |          |
@@ -49,33 +49,33 @@
 
 | Week | Victim  | Points |
 | ---- | ------- | ------ |
-| 4    | Adam    | 66.56  |
-| 5    | David O | 45.26  |
-| 6    | David T | 63.74  |
-| 7    | Joe     | 45.82  |
-| 8    | Bob     | 68.92  |
-| 9    | Jonny   | 58.90  |
-| 10   | Josh    | 82.14  |
-| 11   | Greg    | 85.02  |
-| 12   | Skye    | 84.16  |
+| 4    | Adam    | 47.52  |
+| 5    | Bob     | 42.84  |
+| 6    | David   | 53.64  |
+| 7    | Joe     | 73.34  |
+| 8    | Skye    | 68.68  |
+| 9    | Josh    | 55.34  |
+| 10   | Greg    | 74.04  |
+| 11   | Andrew  | 49.30  |
+| 12   | Sean    | 59.06  |
 
 ### Remaining Contestants
 
-  - Sean (Winner)
+  - Jonny (Winner)
 
 ## Blue Shell
 
 | Week | Victim  | Points |
 |------|---------|--------|
-| 4    | Jonny   | 118.28 |
-| 5    | Skye    | 127.26 |
-| 6    | Sean    | 108.50 |
-| 7    | Bob     | 97.80  |
-| 8    | David T | 159.84 |
-| 9    | Adam    | 110.24 |
-| 10   | Greg    | 116.58 |
-| 11   | Joe     | 95.00  |
-| 12   | Josh    | 93.86  |
+| 4    | Jonny   | 132.70 |
+| 5    | Sean    | 115.58 |
+| 6    | Skye    | 111.62 |
+| 7    | Adam    | 108.26 |
+| 8    | Josh    | 100.52 |
+| 9    | Greg    | 113.08 |
+| 10   | Bob     | 91.60  |
+| 11   | Joe     | 114.96 |
+| 12   | Andrew  | 93.86  |
 
 ### Remaining Contestants
 
