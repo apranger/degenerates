@@ -9,8 +9,8 @@
 | 5-6   | E   | That'd Be Perfection      | Skye    | 90.2% (111.62 / 123.78)          | Week 6  |          |
 | 7-8   | F   | What a Waste!             | Skye    | 42.3% (33.88 / 80.8), L. Jackson | Week 8  |          |
 | 9-10  | E   | He's Going The Distance   | Joe     | 75 yards (David Montgomery)      | Week 10 |          |
-| 11-12 | F   | Holy Shit, I Benched Them |     | 5 (RB, RB, WR, WR, TE)           | Week 12 |          |
-| 13-14 | E   | It's A Broncos Super Bowl | Skye    | 93.58 (133.40 - 39.82)           | Week 13 |          |                                                                                                                                                                                                                           |
+| 11-12 | F   | Holy Shit, I Benched Them | Andrew  | 5 (RB, RB, WR, WR, TE)           | Week 11 |          |
+| 13-14 | E   | It's A Broncos Super Bowl | Skye    | 93.58 (133.40 - 39.82)           | Week 13 |          |                                                                                                    
 
 
 ### Bounty Goals
@@ -31,7 +31,7 @@
 | E   | 2001 Patriots      | Adam    | 2.72                    | Week 15 |          |
 | E   | Put Me In Coach    | Adam    | Jahmyr Gibbs 24.9       | Week 8  |          |
 | F   | Turnover Beethoven | *none*  | *No qualifying players* |         |          |
-| E   | Touchdowns Abound  | JOe     | 7/8 starters            | Week 11 |          |
+| E   | Touchdowns Abound  | Joe     | 7/8 starters            | Week 11 |          |
 | F   | Blue Shell         | Jonny   | N/A                     | N/A     |          |
 | E   | Survivor           | David   | N/A                     | N/A     |          |
 
