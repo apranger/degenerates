@@ -7,8 +7,8 @@
 | 1-2   | E   | Pay Dirt                  | Andrew  | 8 total TDs                      | Week 1  |          |
 | 3-4   | F   | Hue Jackson               | Jonny   | 54.9% (73.72 / 134.22)           | Week 3  |          |
 | 5-6   | E   | That'd Be Perfection      | Skye    | 90.2% (111.62 / 123.78)          | Week 6  |          |
-| 7-8   | F   | What a Waste!             |    | 31% (19.3 / 61.98), Eno Benjamin | Week 7  |          |
-| 9-10  | E   | He's Going The Distance   |       | 81 yards (Dalvin Cook)           | Week 10 |          |
+| 7-8   | F   | What a Waste!             | Skye    | 42.3% (33.88 / 80.8), L. Jackson | Week 8  |          |
+| 9-10  | E   | He's Going The Distance   | Joe     | 75 yards (David Montgomery)      | Week 10 |          |
 | 11-12 | F   | Holy Shit, I Benched Them |     | 5 (RB, RB, WR, WR, TE)           | Week 12 |          |
 | 13-14 | E   | It's A Broncos Super Bowl | Skye    | 93.58 (133.40 - 39.82)           | Week 13 |          |                                                                                                                                                                                                                           |
 
@@ -30,9 +30,9 @@
 | F   | 2007 Patriots      | Joe     | 114.56                  | Week 4  |          |
 | E   | 2001 Patriots      | Adam    | 2.72                    | Week 15 |          |
 | F   | TBD                |         | unclaimed (no kickers!) |         |          |
-| E   | Put Me In Coach    |       | Ken Walker III 28.7     | Week 7  |          |
-| F   | Turnover Beethoven |      | Joe Burrow 4 int 1 fml  | Week 14 |          |
-| E   | Touchdowns Abound  |      | 7/8 starters            | Week 13 |          |
+| E   | Put Me In Coach    | Adam    | Jahmyr Gibbs 24.9       | Week 8  |          |
+| F   | Turnover Beethoven | *none*  | *No qualifying players* |  |          |
+| E   | Touchdowns Abound  |         | 7/8 starters            | Week 13 |          |
 | F   | Blue Shell         | Jonny   | N/A                     | N/A     |          |
 | E   | Survivor           | David   | N/A                     | N/A     |          |
 
