@@ -7,12 +7,9 @@
 | 1-2   | E   | Pay Dirt                  | Andrew  | 8 total TDs                      | Week 1  |          |
 | 3-4   | F   | Hue Jackson               | Jonny   | 54.9% (73.72 / 134.22)           | Week 3  |          |
 | 5-6   | E   | That'd Be Perfection      | Skye    | 90.2% (111.62 / 123.78)          | Week 6  |          |
-
-| 7-8   | F   | What a Waste!             | Jonnny  | 31% (19.3 / 61.98), Eno Benjamin | Week 7  |          |
-| 9-10  | E   | He's Going The Distance   | Joe     | 81 yards (Dalvin Cook)           | Week 10 |          |
-| 11-12 | F   | Holy Shit, I Benched Them | Jonny   | 5 (RB, RB, WR, WR, TE)           | Week 12 |          |
-
-
+| 7-8   | F   | What a Waste!             |    | 31% (19.3 / 61.98), Eno Benjamin | Week 7  |          |
+| 9-10  | E   | He's Going The Distance   |       | 81 yards (Dalvin Cook)           | Week 10 |          |
+| 11-12 | F   | Holy Shit, I Benched Them |     | 5 (RB, RB, WR, WR, TE)           | Week 12 |          |
 | 13-14 | E   | It's A Broncos Super Bowl | Skye    | 93.58 (133.40 - 39.82)           | Week 13 |          |                                                                                                                                                                                                                           |
 
 
