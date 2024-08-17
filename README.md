@@ -65,9 +65,9 @@ A FLEX position can be filled with a RB, WR or TE.
 | RB       | 2       | no limit |
 | WR       | 3       | no limit |
 | TE       | 1       |        5 |
-| FLEX     | 1       |      n/a |
+| FLEX     | 2       |      n/a |
 | D/ST     | 0       |      n/a |
-| BENCH    | 16      |      n/a |
+| BENCH    | 15      |      n/a |
 | IR       | 6       |      n/a |
 
 ### QB Limit
