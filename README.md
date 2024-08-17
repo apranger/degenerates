@@ -33,7 +33,7 @@
 
 ### Passing
   - 0.04 points per passing yard (1 point per 25 passing yards)
-  - 6 points per passing TD (updatedt to 6 for 2024)
+  - 6 points per passing TD (updated to 6 for 2024)
   - 1 point per passing 2PC
   - -3 points per interception (updated to -3 for 2024)
   
