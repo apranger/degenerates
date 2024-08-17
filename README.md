@@ -33,9 +33,9 @@
 
 ### Passing
   - 0.04 points per passing yard (1 point per 25 passing yards)
-  - 4 points per passing TD
+  - 6 points per passing TD (updatedt to 6 for 2024)
   - 1 point per passing 2PC
-  - -2 points per interception
+  - -3 points per interception (updated to -3 for 2024)
   
 ### Rushing
   - 0.1 points per rushing yard (1 point per 10 rushing yards)
@@ -46,18 +46,11 @@
   - 0.1 points per receiving yard (1 point per 10 receiving yards)
   - 6 points per receiving TD
   - 2 point per receiving 2PC
+  - (TE ONLY) 0.5 points per reception
 
 ### Miscellaneous
   - 6 points per Fumble Recovered for TD
   - -2 points per Fumble Lost
-
-### Kicking
-  - 1 point per PAT made
-  - 3 points per 0-39 yard FG made
-  - 4 points per 40-49 yard FG made
-  - 5 points per 50+ yard FG made
-  - -1 point per PAT missed 
-  - -1 point per 0-39 yard FG missed
 
 ### Defense
   - None
@@ -70,13 +63,12 @@ A FLEX position can be filled with a RB, WR or TE.
 | -------- | -------:|---------:|
 | QB       | 1       |        4 starters / 5 total |
 | RB       | 2       | no limit |
-| WR       | 2       | no limit |
+| WR       | 3       | no limit |
 | TE       | 1       |        5 |
 | FLEX     | 1       |      n/a |
-| K        | 1       |        3 |
 | D/ST     | 0       |      n/a |
 | BENCH    | 16      |      n/a |
-| IR       | 2       |      n/a |
+| IR       | 6       |      n/a |
 
 ### QB Limit
   - Limit of *4* starting QBs (listed as 1st on depth chart) enforced on roster lock date.
