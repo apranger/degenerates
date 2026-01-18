@@ -1,4 +1,4 @@
-# 2026 Degenerates Dynasty League Bounties
+# 2025 Degenerates Dynasty League Bounties
 
 ## Two Week Bounties
 
@@ -31,8 +31,8 @@
 | E   | Put Me In Coach      | Sean    | A. Jeanty 31.5 pts        | Week 4  |          |
 | F   | Turnover Beethoven   | n/a     | n/a                       | n/a     | n/a      |
 | E   | Better Good or Lucky | David   | 83.89% (1512.46 / 1802.9) | N/A     |          |
-| F   | Blue Shell           | Josh    | N/A                       | N/A     |          |
-| E   | Survivor             | Bob     | N/A                       | N/A     |          |
+| F   | Blue Shell           | Bob     | N/A                       | N/A     |          |
+| E   | Survivor             | Josh    | N/A                       | N/A     |          |
 
 ### Bounty Goals
 
